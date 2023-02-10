@@ -5,6 +5,7 @@ date: 2023-02-10
 description:
 keywords: ["about"]
 type: about
+hideMeta: true
 ---
 
 集合量化的博客文章

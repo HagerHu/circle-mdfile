@@ -1,12 +1,11 @@
 ---
 author: Hager Hu
-title: About
+title: 关于集合量化
 date: 2023-02-10
 description:
 keywords: ["about"]
 type: about
+hideMeta: true
 ---
-
-关于集合量化
 
 量化自我方向的工具类应用
