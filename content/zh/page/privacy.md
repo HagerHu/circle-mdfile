@@ -1,6 +1,6 @@
 ---
 author: Hager Hu
-title: 数据隐私政策
+title: 隐私政策
 date: 2023-02-10
 description:
 keywords: ["privacy"]

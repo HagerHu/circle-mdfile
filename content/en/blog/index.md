@@ -1,10 +1,10 @@
 ---
 author: Hager Hu
-title: main page of articles
+title: Article List
 date: 2023-02-10
 description:
-keywords: ["about"]
-type: about
+keywords: ["blog"]
+type: blog
 hideMeta: true
 ---
 
