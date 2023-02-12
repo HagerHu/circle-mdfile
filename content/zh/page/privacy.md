@@ -2,9 +2,8 @@
 author: Hager Hu
 title: 隐私政策
 date: 2023-02-10
-description:
+description: 用户数据收集和隐私政策
 keywords: ["privacy"]
-type: privacy
 hideMeta: true
 ---
 

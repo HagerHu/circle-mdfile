@@ -2,9 +2,8 @@
 author: Hager Hu
 title: User Support
 date: 2023-02-10
-description:
+description: User Support and Contact Us
 keywords: ["support", "contact"]
-type: support
 hideMeta: true
 ---
 

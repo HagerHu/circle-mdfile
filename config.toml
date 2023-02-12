@@ -1,8 +1,9 @@
-baseurl = "https://autod.io"
+baseurl = "localhost:1313"
 metaDataFormat = "yaml"
 title = "Circle"
 theme = "blist"
 staticDir = ['static', 'images']
+#uglyurls = true
 
 DefaultContentLanguage = "zh"
 DefaultContentLanguageInSubdir = true
@@ -91,7 +92,7 @@ DefaultContentLanguageInSubdir = true
   ]
 
   # Custom copyright - optional
-  copyright = "Copyright © 2023 - Autod Circle, Ltd · All rights reserved"
+  copyright = "Copyright © 2023 - 集合量化, Ltd · All rights reserved"
   favicon = "/favicon.svg"
 
   # Color for the intro details and social links block, not applicable for dark mode

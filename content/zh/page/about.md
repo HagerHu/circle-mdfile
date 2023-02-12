@@ -2,9 +2,8 @@
 author: Hager Hu
 title: 关于集合
 date: 2023-02-10
-description:
+description: 集合，专注量化自我的工具类应用。
 keywords: ["about"]
-type: about
 hideMeta: true
 ---
 

@@ -2,9 +2,8 @@
 author: Hager Hu
 title: Privacy Policy
 date: 2023-02-10
-description:
+description: privacy policy about user data and collection
 keywords: ["privacy"]
-type: privacy
 hideMeta: true
 ---
 

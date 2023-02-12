@@ -2,9 +2,8 @@
 author: Hager Hu
 title: 用户支持
 date: 2023-02-10
-description:
+description: 联系我们和保持更新
 keywords: ["用户支持", "联系我们"]
-type: support
 hideMeta: true
 ---
 
