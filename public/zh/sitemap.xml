@@ -33,6 +33,16 @@
   </url><url>
     <loc>https://usistem.com/zh/blog/make-progress-use-cycling-distance/</loc>
     <lastmod>2023-02-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://usistem.com/en/blog/make-progress-use-cycling-distance/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://usistem.com/zh/blog/make-progress-use-cycling-distance/"
+                />
   </url><url>
     <loc>https://usistem.com/zh/page/</loc>
     <lastmod>2023-02-10T00:00:00+00:00</lastmod>

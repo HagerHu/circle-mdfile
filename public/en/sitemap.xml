@@ -2,6 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://usistem.com/en/</loc>
+    <lastmod>2023-02-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://usistem.com/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://usistem.com/en/"
+                />
+  </url><url>
+    <loc>https://usistem.com/en/blog/make-progress-use-cycling-distance/</loc>
+    <lastmod>2023-02-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://usistem.com/zh/blog/make-progress-use-cycling-distance/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://usistem.com/en/blog/make-progress-use-cycling-distance/"
+                />
+  </url><url>
     <loc>https://usistem.com/en/page/about/</loc>
     <lastmod>2023-02-10T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -26,19 +52,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://usistem.com/en/blog/"
-                />
-  </url><url>
-    <loc>https://usistem.com/en/</loc>
-    <lastmod>2023-02-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://usistem.com/zh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://usistem.com/en/"
                 />
   </url><url>
     <loc>https://usistem.com/en/page/</loc>
