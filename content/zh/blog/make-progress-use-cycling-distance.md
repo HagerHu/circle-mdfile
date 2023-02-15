@@ -4,6 +4,7 @@ title: 使用「骑行目标」看见骑行距离
 date: 2023-02-13
 description: 公路车给你风一般的速度，山地车给你风一样的自由。骑行目标，可以自动统计骑行运动不同时间维度「本周，本月和今年」的骑行运动距离，可以更好的跟踪年度骑行目标。
 keywords: ["blog"]
+layout: 'detail'
 thumbnail: /images/channel-cycling-distance.png
 ---
 
