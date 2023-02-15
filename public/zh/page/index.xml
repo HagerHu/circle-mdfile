@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on 集合：构建你的个人系统</title>
+    <link>https://usistem.com/zh/page/</link>
+    <description>Recent content in Pages on 集合：构建你的个人系统</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 10 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://usistem.com/zh/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于集合</title>
+      <link>https://usistem.com/zh/page/about/</link>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usistem.com/zh/page/about/</guid>
+      <description>集合，专注量化自我的工具类应用。支持体能训练，时间管理，睡眠跟踪等多个数据维度；还可以支持时间进度，目标跟踪，数据趋势等图表统计。</description>
+    </item>
+    
+    <item>
+      <title>隐私政策</title>
+      <link>https://usistem.com/zh/page/privacy/</link>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usistem.com/zh/page/privacy/</guid>
+      <description>完全隐私 Circle 没有用户分析数据和跟踪数据，没有广告插件。 不会将用户相关的个人数据上传至服务器，仅在服务器端存储了用户使用的频道关系数据。
+隐私政策 我们非常认真地对待客户的隐私。 我们通过 Circle 应用程序收集的任何数据都受此政策约束。 使用 Circle 即表示你同意这份隐私政策的条款和条件。 你继续使用AutoSleep即表明你接受本政策，也接受我们将来可能对其进行的任何修订。当前隐私政策会一直在此发布，可随时查看。
+应用隐私 请查看下方，看看我们在App Store中的应用程序隐私标签。 我们不会收集及任何形式存储来自你HealthKit的任何数据或销售给广告或其他营运机构。 系统集成 为了进行分析，向你呈现信息，Circle 依赖于 Apple HealthKit 数据库，读取其中的健康数据（包括心率、活动能量、睡眠分析、体能训练等），这些健康数据从 iPhone 和 Apple Watch 上获取。 除非你特别授权访问，否则 Circle 无法从或向 Apple HealthKit 数据库读取或写入数据。 在你开始使用某个频道时，会提示相关的数据使用授权。如睡眠跟踪频道，从 Apple HealthKit 数据库读取睡眠分析数据进行归集和展示，然后在 Circle 应用程序中向您呈现这些数据。 Circle 应用程序不会将这些数据传输到别的地方，它保留在你的 iPhone 中供你个人使用。 需要用户手工录入的数据项，Circle 会将数据归档存储在用户个人的 iCloud Drive 中。这些数据都是存储在用户的设备上，可以支持不同设备间的数据同步。
+数据收集 Circle 不收集任何信息。</description>
+    </item>
+    
+    <item>
+      <title>用户支持</title>
+      <link>https://usistem.com/zh/page/support/</link>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usistem.com/zh/page/support/</guid>
+      <description>联系我们 我们在集合应用的个人页提供了联系我们入口，欢迎在应用中给我们反馈。
+你也可以通过点击向我们发送电子邮件 来联系我们。
+保持更新 在Twitter上关注我们。我们会发布新版本的更新和活动，并提供公开测试版的链接，这样你就可以在全球发布前测试新版本。 推特账号：@hagerhu
+Contact Us We provid contact us entry in profile page. Welcome your any feedback.
+You can also click send us an email to contact us.
+Keep Update Follow us on Twitter. We post updates for new release and event provide links for public beta versions, so you can test out new version before they go global. Twitter: @hagerhu</description>
+    </item>
+    
+  </channel>
+</rss>
