@@ -5,6 +5,7 @@ keywords= ['build', 'system', 'machine']
 theme = "blist"
 staticDir = ['static', 'images']
 #uglyurls = true
+image = "/images/circle-data-chart.png"
 
 DefaultContentLanguage = "zh"
 DefaultContentLanguageInSubdir = true
@@ -78,6 +79,8 @@ DefaultContentLanguageInSubdir = true
   
   # Enable search in header
   enableSearch = false
+
+  image = "/images/circle-data-chart.png"
 
   # Option to customize the search parameters of a page
   # Below are the supported options; Note that including entire content

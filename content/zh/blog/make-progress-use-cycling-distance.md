@@ -3,9 +3,10 @@ author: Hager Hu
 title: 使用「骑行目标」看见骑行距离
 date: 2023-02-13
 description: 公路车给你风一般的速度，山地车给你风一样的自由。骑行目标，可以自动统计骑行运动不同时间维度「本周，本月和今年」的骑行运动距离，可以更好的跟踪年度骑行目标。
-keywords: ["blog"]
+keywords: ["集合量化", "骑行运动", "进度跟踪", "骑行距离"]
 layout: 'detail'
 thumbnail: /images/channel-cycling-distance.png
+image: /images/channel-cycling-distance.png
 ---
 
 “红一程，绿一程，车向遗爱深处行；樟一层，柳一层，绿如碧涛车如龙……”
