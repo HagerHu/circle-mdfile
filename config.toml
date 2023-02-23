@@ -80,7 +80,7 @@ DefaultContentLanguageInSubdir = true
   # Enable search in header
   enableSearch = false
 
-  image = "/images/circle-data-chart.png"
+  image = "https://usistem.com/images/circle-data-chart.png"
 
   # Option to customize the search parameters of a page
   # Below are the supported options; Note that including entire content

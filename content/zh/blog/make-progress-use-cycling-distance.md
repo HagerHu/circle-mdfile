@@ -6,7 +6,7 @@ description: 公路车给你风一般的速度，山地车给你风一样的自�
 keywords: ["集合量化", "骑行运动", "进度跟踪", "骑行距离"]
 layout: 'detail'
 thumbnail: /images/channel-cycling-distance.png
-image: /images/channel-cycling-distance.png
+image: "https://usistem.com/images/channel-cycling-distance.png"
 ---
 
 “红一程，绿一程，车向遗爱深处行；樟一层，柳一层，绿如碧涛车如龙……”

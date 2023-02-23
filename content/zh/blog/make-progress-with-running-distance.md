@@ -5,7 +5,7 @@ date: 2023-02-13
 description: 跑步是个很简单的运动，只要迈开腿，左脚超过右脚，右脚再超过左脚，不断的反复循环就是了。我一开始的目标也很简单，每天能够闭合 Apple Watch 上的运动圆环。
 keywords: ["blog"]
 thumbnail: /images/channel-running-distance.png
-image: /images/channel-running-distance.png
+image: "https://usistem.com/images/channel-running-distance.png"
 ---
 
 跑步是个很简单的运动，只需要迈开腿，左脚超过右脚，右脚再超过左脚，不断的重复循环。
