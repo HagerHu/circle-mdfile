@@ -10,7 +10,7 @@ image = "/images/circle-data-chart.png"
 DefaultContentLanguage = "zh"
 DefaultContentLanguageInSubdir = true
 
-googleAnalytics = 'UA-27652044-2'
+googleAnalytics = 'G-8T78BT60ZH'
 
 [languages]
   [languages.en]
