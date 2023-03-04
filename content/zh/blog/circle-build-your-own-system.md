@@ -14,7 +14,7 @@ thumbnail: "https://cdn.nlark.com/yuque/0/2023/png/177619/1677922284428-6c9ae685
 image: "https://cdn.nlark.com/yuque/0/2023/png/177619/1677911449878-9ade2a1e-b930-4624-9581-ffdd21f86221.png"
 ---
 
-华尔街投资大神、对冲基金公司桥水创始人瑞·达利欧在「原则」中提到，建造并进化你的机器。之前看到这篇文章 [Set Direction with Goals, Make Progress with Systems](https://ashleyjanssen.com/set-direction-with-goals-make-progress-with-systems/) 也深受启发，设定目标以确定方向，运用系统以取得进展。是的，目标是我们前进的方向，构建适合自己的个人系统，然后我们看见变化，取得进展，最后实现自己当初定下的目标。
+华尔街投资大神、对冲基金公司桥水创始人瑞·达利欧在「原则」中提到，建造并进化你的机器。之前看到这篇文章 [Set Direction with Goals, Make Progress with Systems](https://ashleyjanssen.com/set-direction-with-goals-make-progress-with-systems/) 也深受启发，设定目标以确定方向，运用系统以取得进展。是的，目标指引我们前进的方向，系统应该让我们看见变化，距离目标还有多远。
 
 ## 我的故事
 
