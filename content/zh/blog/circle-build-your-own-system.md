@@ -10,10 +10,8 @@ tags:
   - "量化自我"
   - "个人系统"
   - "你的机器"
-thumbnail: "https://cdn.nlark.com/yuque/0/2023/png/177619/1677922284428-6c9ae685-490d-4dfd-b503-b60c9089488c.png"
-image: "https://cdn.nlark.com/yuque/0/2023/png/177619/1677922284428-6c9ae685-490d-4dfd-b503-b60c9089488c.png"
-
-
+thumbnail: "https://cdn.nlark.com/yuque/0/2023/png/177619/1677929508351-a0a1b4df-4011-4edd-a126-3cdfa89066dc.png"
+image: "https://cdn.nlark.com/yuque/0/2023/png/177619/1677929508351-a0a1b4df-4011-4edd-a126-3cdfa89066dc.png"
 ---
 
 华尔街投资大神、对冲基金公司桥水创始人瑞·达利欧在「原则」中提到，建造并进化你的机器。之前看到这篇文章 [Set Direction with Goals, Make Progress with Systems](https://ashleyjanssen.com/set-direction-with-goals-make-progress-with-systems/) 也深受启发，设定目标以确定方向，运用系统以取得进展。
