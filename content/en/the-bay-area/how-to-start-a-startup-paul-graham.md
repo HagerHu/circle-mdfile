@@ -2,6 +2,7 @@
 title: "Paul Graham：How to start a startup?"
 date: 2023-03-14T11:22:33+08:00
 draft: false
+toc: true
 description: "You need three things to create a successful startup: to start with good people, to make something customers actually want, and to spend as little money as possible. If there is one message I'd like to get across about startups, that's it."
 keywords: ["start a startup","Hackers and Painters","Big Ideas from the Computer Age","Pual Graham","make something people really want"]
 categories:
@@ -286,13 +287,21 @@ If you want to do it, do it. Starting a startup is not the great mystery it seem
 ## Notes
 
 [1] Google's revenues are about two billion a year, but half comes from ads on other sites.
+
 [2] One advantage startups have over established companies is that there are no discrimination laws about starting businesses. For example, I would be reluctant to start a startup with a woman who had small children, or was likely to have them soon. But you're not allowed to ask prospective employees if they plan to have kids soon. Believe it or not, under current US law, you're not even allowed to discriminate on the basis of intelligence. Whereas when you're starting a company, you can discriminate on any basis you want about who you start it with.
+
 [3] Learning to hack is a lot cheaper than business school, because you can do it mostly on your own. For the price of a Linux box, a copy of K&R, and a few hours of advice from your neighbor's fifteen year old son, you'll be well on your way.
+
 [4] Corollary: Avoid starting a startup to sell things to the biggest company of all, the government. Yes, there are lots of opportunities to sell them technology. But let someone else start those startups.
+
 [5] A friend who started a company in Germany told me they do care about the paperwork there, and that there's more of it. Which helps explain why there are not more startups in Germany.
+
 [6] At the seed stage our valuation was in principle $100,000, because Julian got 10% of the company. But this is a very misleading number, because the money was the least important of the things Julian gave us.
+
 [7] The same goes for companies that seem to want to acquire you. There will be a few that are only pretending to in order to pick your brains. But you can never tell for sure which these are, so the best approach is to seem entirely open, but to fail to mention a few critical technical secrets.
+
 [8] I was as bad an employee as this place was a company. I apologize to anyone who had to work with me there.
+
 [9] You could probably write a book about how to succeed in business by doing everything in exactly the opposite way from the DMV.
 
 Thanks to Trevor Blackwell, Sarah Harlin, Jessica Livingston, and Robert Morris for reading drafts of this essay, and to Steve Melendez and Gregory Price for inviting me to speak.
