@@ -13,6 +13,8 @@ thumbnail: "https://cdn.nlark.com/yuque/0/2023/png/177619/1678763431909-af876198
 image: "https://cdn.nlark.com/yuque/0/2023/png/177619/1678763431909-af876198-8fa9-44be-a800-c5daa18325a0.png"
 ---
 
+!image](https://cdn.nlark.com/yuque/0/2023/png/177619/1678763431909-af876198-8fa9-44be-a800-c5daa18325a0.png)
+
 This article is from [http://paulgraham.com/start.html](http://paulgraham.com/start.html)。Original article writen by years ago, not friendly for reading since less line content. This article is just formated for reading experience, no changes of content.
 
 ---

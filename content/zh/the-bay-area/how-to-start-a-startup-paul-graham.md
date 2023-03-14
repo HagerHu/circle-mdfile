@@ -13,6 +13,8 @@ thumbnail: "https://cdn.nlark.com/yuque/0/2023/png/177619/1678763431909-af876198
 image: "https://cdn.nlark.com/yuque/0/2023/png/177619/1678763431909-af876198-8fa9-44be-a800-c5daa18325a0.png"
 ---
 
+[!image](https://cdn.nlark.com/yuque/0/2023/png/177619/1678763431909-af876198-8fa9-44be-a800-c5daa18325a0.png)
+
 本文使用 openAI chatGPT 翻译，翻译后为了方便理解经过简单修改。原文链接：<http://paulgraham.com/start.html>
 
 ---
