@@ -5,7 +5,7 @@ draft: false
 description: "You need three things to create a successful startup: to start with good people, to make something customers actually want, and to spend as little money as possible. If there is one message I'd like to get across about startups, that's it."
 keywords: ["start a startup","Hackers and Painters","Big Ideas from the Computer Age","Pual Graham","make something people really want"]
 categories:
-  - "湾区周报"
+  - "the-bay-area"
 tags:
   - "startup"
   - "indiehacker"
@@ -13,15 +13,17 @@ thumbnail: "https://cdn.nlark.com/yuque/0/2023/png/177619/1678763431909-af876198
 image: "https://cdn.nlark.com/yuque/0/2023/png/177619/1678763431909-af876198-8fa9-44be-a800-c5daa18325a0.png"
 ---
 
-本内来自 [http://paulgraham.com/start.html](http://paulgraham.com/start.html)。只是原文每行内容比较短，不适合大屏阅读。此处仅调整文章格式，适合大屏阅读，其它没有任何改动。
+This article is from [http://paulgraham.com/start.html](http://paulgraham.com/start.html)。Original article writen by years ago, not friendly for reading since less line content. This article is just formated for reading experience, no changes of content.
 
 ---
 
 You need three things to create a successful startup: to start with good people, to make something customers actually want, and to spend as little money as possible. Most startups that fail do it because they fail at one of these. A startup that does all three will probably succeed.
+
 And that's kind of exciting, when you think about it, because all three are doable. Hard, but doable. And since a startup that succeeds ordinarily makes its founders rich, that implies getting rich is doable too. Hard, but doable.
+
 If there is one message I'd like to get across about startups, that's it. There is no magically difficult step that requires brilliance to solve.
 
-# The Idea
+## The Idea
 
 In particular, you don't need a brilliant idea to start a startup around. The way a startup makes money is to offer people better technology than they have now. But what people have now is often so bad that it doesn't take brilliance to do better.
 
@@ -39,7 +41,7 @@ Ideas for startups are worth something, certainly, but the trouble is, they're n
 
 What matters is not ideas, but the people who have them. Good people can fix bad ideas, but good ideas can't save bad people. 
 
-# People
+## People
 
 What do I mean by good people? One of the best tricks I learned during our startup was a rule for deciding who to hire. Could you describe the person as an animal? It might be hard to translate that into another language, but I think everyone in the US knows what it means. It means someone who takes their work a little too seriously; someone who does what they do so well that they pass right through professional and cross over into obsessive.
 
@@ -50,6 +52,7 @@ Almost everyone who worked for us was an animal at what they did. The woman in c
 If you think about people you know, you'll find the animal test is easy to apply. Call the person's image to mind and imagine the sentence "so-and-so is an animal." If you laugh, they're not. You don't need or perhaps even want this quality in big companies, but you need it in a startup.
 
 For programmers we had three additional tests. Was the person genuinely smart? If so, could they actually get things done? And finally, since a few good hackers have unbearable personalities, could we stand to have them around?
+
 That last test filters out surprisingly few people. We could bear any amount of nerdiness if someone was truly smart. What we couldn't stand were people with a lot of attitude. But most of those weren't truly smart, so our third test was largely a restatement of the first.
 
 When nerds are unbearable it's usually because they're trying too hard to seem smart. But the smarter they are, the less pressure they feel to act smart. So as a rule you can recognize genuinely smart people by their ability to say things like "I don't know," "Maybe you're right," and "I don't understand x well enough."
@@ -81,7 +84,7 @@ If you work your way down the Forbes 400 making an x next to the name of each pe
 There is one reason you might want to include business people in a startup, though: because you have to have at least one person willing and able to focus on what customers want. Some believe only business people can do this-- that hackers can implement software, but not design it. That's nonsense. There's nothing about knowing how to program that prevents hackers from understanding users, or about not knowing how to program that magically enables business people to understand them.
 If you can't understand users, however, you should either learn how or find a co-founder who can. That is the single most important issue for technology startups, and the rock that sinks more of them than anything else.
 
-# What Customers Want
+## What Customers Want
 
 It's not just startups that have to worry about this. I think most businesses that fail do it because they don't give customers what they want. Look at restaurants. A large percentage fail, about a quarter in the first year. But can you think of one restaurant that had really good food and went out of business?
 
@@ -120,7 +123,7 @@ They're the more strategically valuable part of the market anyway. In technology
 It's very dangerous to let anyone fly under you. If you have the cheapest, easiest product, you'll own the low end. And if you don't, you're in the crosshairs of whoever does.
 
 
-# Raising Money
+## Raising Money
 
 To make all this happen, you're going to need money. Some startups have been self-funding-- Microsoft for example-- but most aren't. I think it's wise to take money from investors. To be self-funding, you have to start as a consulting company, and it's hard to switch from that to a product company.
 
@@ -168,7 +171,6 @@ What I didn't grasp at the time was that the valuation wasn't just the value of 
 
 The next round of funding is the one in which you might deal with actual venture capital firms. But don't wait till you've burned through your last round of funding to start approaching them. VCs are slow to make up their minds. They can take months. You don't want to be running out of money while you're trying to negotiate with them.
 
-
 Getting money from an actual VC firm is a bigger deal than getting money from angels. The amounts of money involved are larger, millions usually. So the deals take longer, dilute you more, and impose more onerous conditions.
 
 Sometimes the VCs want to install a new CEO of their own choosing. Usually the claim is that you need someone mature and experienced, with a business background. Maybe in some cases this is true. And yet Bill Gates was young and inexperienced and had no business background, and he seems to have done ok. Steve Jobs got booted out of his own company by someone mature and experienced, with a business background, who then proceeded to ruin the company. So I think people who are mature and experienced, with a business background, may be overrated. We used to call these guys "newscasters," because they had neat hair and spoke in deep, confident voices, and generally didn't know much more than they read on the teleprompter.
@@ -187,7 +189,7 @@ You may wonder how much to tell VCs. And you should, because some of them may on
 
 Talk to as many VCs as you can, even if you don't want their money, because a) they may be on the board of someone who will buy you, and b) if you seem impressive, they'll be discouraged from investing in your competitors. The most efficient way to reach VCs, especially if you only want them to know about you and don't want their money, is at the conferences that are occasionally organized for startups to present to them.
 
-# Not Spending It
+## Not Spending It
 
 When and if you get an infusion of real money from investors, what should you do with it? Not spend it, that's what. In nearly every startup that fails, the proximate cause is running out of money. Usually there is something deeper wrong. But even a proximate cause of death is worth trying hard to avoid.
 
@@ -239,7 +241,7 @@ This is ridiculous, really. If two companies have the same revenues, it's the on
 
 As with office space, the number of your employees is a choice between seeming impressive, and being impressive. Any of you who were nerds in high school know about this choice. Keep doing it when you start a company.
 
-# Should You?
+## Should You?
 
 But should you start a company? Are you the right sort of person to do it? If you are, is it worth it?
 
@@ -279,7 +281,8 @@ If you do have to leave grad school, in the worst case it won't be for too long.
 
 If you want to do it, do it. Starting a startup is not the great mystery it seems from outside. It's not something you have to know about "business" to do. Build something users love, and spend less than you make. How hard is that?
 
-Notes
+## Notes
+
 [1] Google's revenues are about two billion a year, but half comes from ads on other sites.
 [2] One advantage startups have over established companies is that there are no discrimination laws about starting businesses. For example, I would be reluctant to start a startup with a woman who had small children, or was likely to have them soon. But you're not allowed to ask prospective employees if they plan to have kids soon. Believe it or not, under current US law, you're not even allowed to discriminate on the basis of intelligence. Whereas when you're starting a company, you can discriminate on any basis you want about who you start it with.
 [3] Learning to hack is a lot cheaper than business school, because you can do it mostly on your own. For the price of a Linux box, a copy of K&R, and a few hours of advice from your neighbor's fifteen year old son, you'll be well on your way.
