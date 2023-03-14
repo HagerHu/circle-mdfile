@@ -13,7 +13,7 @@ thumbnail: "https://cdn.nlark.com/yuque/0/2023/png/177619/1678763431909-af876198
 image: "https://cdn.nlark.com/yuque/0/2023/png/177619/1678763431909-af876198-8fa9-44be-a800-c5daa18325a0.png"
 ---
 
-本文通过 openAI chatGPT 翻译，翻译后为了方便理解经过简单修改。原文链接：http://paulgraham.com/start.html
+本文使用 openAI chatGPT 翻译，翻译后为了方便理解经过简单修改。原文链接：<http://paulgraham.com/start.html>
 
 ---
 
@@ -263,3 +263,25 @@ Our offices were in a wooden triple-decker in Harvard Square. It had been an apa
 如果你确实不得不离开研究生院，在最坏的情况下，这不会太久。如果一家创业公司失败了，它很可能会失败得足够快，以便你能够回到学术生活中。如果成功了，你可能会发现自己不再有成为助理教授的强烈愿望。
 
 如果你想做，就去做。创业公司的开始并不是从外部看起来那么神秘。这不是你必须懂得“商业”的东西。建立用户喜爱的东西，并且花费少于你的收入。这难吗？
+
+## 备注
+
+[1] Google's revenues are about two billion a year, but half comes from ads on other sites.
+
+[2] One advantage startups have over established companies is that there are no discrimination laws about starting businesses. For example, I would be reluctant to start a startup with a woman who had small children, or was likely to have them soon. But you're not allowed to ask prospective employees if they plan to have kids soon. Believe it or not, under current US law, you're not even allowed to discriminate on the basis of intelligence. Whereas when you're starting a company, you can discriminate on any basis you want about who you start it with.
+
+[3] Learning to hack is a lot cheaper than business school, because you can do it mostly on your own. For the price of a Linux box, a copy of K&R, and a few hours of advice from your neighbor's fifteen year old son, you'll be well on your way.
+
+[4] Corollary: Avoid starting a startup to sell things to the biggest company of all, the government. Yes, there are lots of opportunities to sell them technology. But let someone else start those startups.
+
+[5] A friend who started a company in Germany told me they do care about the paperwork there, and that there's more of it. Which helps explain why there are not more startups in Germany.
+
+[6] At the seed stage our valuation was in principle $100,000, because Julian got 10% of the company. But this is a very misleading number, because the money was the least important of the things Julian gave us.
+
+[7] The same goes for companies that seem to want to acquire you. There will be a few that are only pretending to in order to pick your brains. But you can never tell for sure which these are, so the best approach is to seem entirely open, but to fail to mention a few critical technical secrets.
+
+[8] I was as bad an employee as this place was a company. I apologize to anyone who had to work with me there.
+
+[9] You could probably write a book about how to succeed in business by doing everything in exactly the opposite way from the DMV.
+
+Thanks to Trevor Blackwell, Sarah Harlin, Jessica Livingston, and Robert Morris for reading drafts of this essay, and to Steve Melendez and Gregory Price for inviting me to speak.
