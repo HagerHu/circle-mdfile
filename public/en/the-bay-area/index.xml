@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>湾区周报 on Circle: Build your own system</title>
+    <link>https://usistem.com/en/the-bay-area/</link>
+    <description>Recent content in 湾区周报 on Circle: Build your own system</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 14 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://usistem.com/en/the-bay-area/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Paul Graham：How to start a startup?</title>
+      <link>https://usistem.com/en/the-bay-area/how-to-start-a-startup-paul-graham/</link>
+      <pubDate>Tue, 14 Mar 2023 11:22:33 +0800</pubDate>
+      
+      <guid>https://usistem.com/en/the-bay-area/how-to-start-a-startup-paul-graham/</guid>
+      <description>本内来自 http://paulgraham.com/start.html 。只是原文每行内容比较短，不适合大屏阅读。此处仅调整文章格式，适合大屏阅读，其它没有任何改动。
+You need three things to create a successful startup: to start with good people, to make something customers actually want, and to spend as little money as possible. Most startups that fail do it because they fail at one of these. A startup that does all three will probably succeed. And that&amp;rsquo;s kind of exciting, when you think about it, because all three are doable. Hard, but doable.</description>
+    </item>
+    
+  </channel>
+</rss>

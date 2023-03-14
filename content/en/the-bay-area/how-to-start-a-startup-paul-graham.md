@@ -2,7 +2,7 @@
 title: "Paul Graham：How to start a startup?"
 date: 2023-03-14T11:22:33+08:00
 draft: false
-description: You need three things to create a successful startup: to start with good people, to make something customers actually want, and to spend as little money as possible. If there is one message I'd like to get across about startups, that's it.
+description: "You need three things to create a successful startup: to start with good people, to make something customers actually want, and to spend as little money as possible. If there is one message I'd like to get across about startups, that's it."
 keywords: ["start a startup","Hackers and Painters","Big Ideas from the Computer Age","Pual Graham","make something people really want"]
 categories:
   - "湾区周报"

@@ -2,8 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://usistem.com/en/categories/</loc>
+    <lastmod>2023-03-14T11:22:33+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://usistem.com/zh/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://usistem.com/en/categories/"
+                />
+  </url><url>
     <loc>https://usistem.com/en/</loc>
-    <lastmod>2023-02-13T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-14T11:22:33+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -13,6 +26,64 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://usistem.com/en/"
+                />
+  </url><url>
+    <loc>https://usistem.com/en/tags/indiehacker/</loc>
+    <lastmod>2023-03-14T11:22:33+08:00</lastmod>
+  </url><url>
+    <loc>https://usistem.com/en/the-bay-area/how-to-start-a-startup-paul-graham/</loc>
+    <lastmod>2023-03-14T11:22:33+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://usistem.com/zh/the-bay-area/how-to-start-a-startup-paul-graham/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://usistem.com/en/the-bay-area/how-to-start-a-startup-paul-graham/"
+                />
+  </url><url>
+    <loc>https://usistem.com/en/tags/startup/</loc>
+    <lastmod>2023-03-14T11:22:33+08:00</lastmod>
+  </url><url>
+    <loc>https://usistem.com/en/tags/</loc>
+    <lastmod>2023-03-14T11:22:33+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://usistem.com/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://usistem.com/en/tags/"
+                />
+  </url><url>
+    <loc>https://usistem.com/en/categories/%E6%B9%BE%E5%8C%BA%E5%91%A8%E6%8A%A5/</loc>
+    <lastmod>2023-03-14T11:22:33+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://usistem.com/zh/categories/%E6%B9%BE%E5%8C%BA%E5%91%A8%E6%8A%A5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://usistem.com/en/categories/%E6%B9%BE%E5%8C%BA%E5%91%A8%E6%8A%A5/"
+                />
+  </url><url>
+    <loc>https://usistem.com/en/the-bay-area/</loc>
+    <lastmod>2023-03-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://usistem.com/zh/the-bay-area/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://usistem.com/en/the-bay-area/"
                 />
   </url><url>
     <loc>https://usistem.com/en/blog/make-progress-use-cycling-distance/</loc>
@@ -94,30 +165,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://usistem.com/en/page/support/"
-                />
-  </url><url>
-    <loc>https://usistem.com/en/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://usistem.com/zh/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://usistem.com/en/categories/"
-                />
-  </url><url>
-    <loc>https://usistem.com/en/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://usistem.com/zh/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://usistem.com/en/tags/"
                 />
   </url>
 </urlset>
