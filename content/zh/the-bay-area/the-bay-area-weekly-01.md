@@ -24,6 +24,7 @@ image: "https://cdn.nlark.com/yuque/0/2023/jpeg/177619/1679362044964-661ddbc6-43
 750 Words是《艺术家的方式》中所学到的晨间页面的数字版本，由 @buster  创立，用于日常记录私人日志，750 差不多是 3 页纸的字数。写作，可以在记录的过程中了解自己。
 
 <https://750words.com/>
+
 <https://www.indiehackers.com/interview/how-i-bootstrapped-my-side-project-into-a-20k-mo-lifestyle-business-063525ef84>
 
 ## 生活方式的创业方式
