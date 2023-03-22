@@ -56,6 +56,25 @@
     <loc>https://usistem.com/en/categories/the-bay-area/</loc>
     <lastmod>2023-03-22T14:33:33+08:00</lastmod>
   </url><url>
+    <loc>https://usistem.com/en/tags/indiehackers/</loc>
+    <lastmod>2023-03-21T11:22:33+08:00</lastmod>
+  </url><url>
+    <loc>https://usistem.com/en/tags/startup/</loc>
+    <lastmod>2023-03-21T11:22:33+08:00</lastmod>
+  </url><url>
+    <loc>https://usistem.com/en/the-bay-area/the-bay-area-weekly-01/</loc>
+    <lastmod>2023-03-21T11:22:33+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://usistem.com/zh/the-bay-area/the-bay-area-weekly-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://usistem.com/en/the-bay-area/the-bay-area-weekly-01/"
+                />
+  </url><url>
     <loc>https://usistem.com/en/tags/indiehacker/</loc>
     <lastmod>2023-03-14T11:22:33+08:00</lastmod>
   </url><url>
@@ -71,9 +90,6 @@
                 hreflang="en"
                 href="https://usistem.com/en/the-bay-area/how-to-start-a-startup-paul-graham/"
                 />
-  </url><url>
-    <loc>https://usistem.com/en/tags/startup/</loc>
-    <lastmod>2023-03-14T11:22:33+08:00</lastmod>
   </url><url>
     <loc>https://usistem.com/en/the-bay-area/</loc>
     <lastmod>2023-03-14T00:00:00+00:00</lastmod>
