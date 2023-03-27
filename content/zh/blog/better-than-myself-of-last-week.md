@@ -10,8 +10,8 @@ tags:
   - "每周总结"
   - "记录量化"
   - "实践分享"
-image: "https://cdn.nlark.com/yuque/0/2023/jpeg/177619/1679882364852-d16c9d80-7f58-417a-8d82-548bad48da73.jpeg"
-thumbnail: "https://cdn.nlark.com/yuque/0/2023/jpeg/177619/1679882364852-d16c9d80-7f58-417a-8d82-548bad48da73.jpeg"
+image: "https://cdn.nlark.com/yuque/0/2023/png/177619/1679890000178-9d79f340-dd20-451d-8296-7677784ff474.png"
+thumbnail: "https://cdn.nlark.com/yuque/0/2023/png/177619/1679890000178-9d79f340-dd20-451d-8296-7677784ff474.png"
 
 ---
 
