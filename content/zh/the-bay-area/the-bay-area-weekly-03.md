@@ -15,7 +15,7 @@ thumbnail: "https://cdn.nlark.com/yuque/0/2023/jpeg/177619/1679362044964-661ddbc
 image: "https://cdn.nlark.com/yuque/0/2023/jpeg/177619/1679362044964-661ddbc6-43ee-4b2f-8bfa-6c1af1ed1d1c.jpeg"
 ---
 
-这是 [@HagerHu](https://twitter.com/hagerhu) 维护的「湾区周报」的第1期。湾区周报，关注湾区互联网、科技和创业；阅读英文优质文章，每周进步一点点。
+这是 [@HagerHu](https://twitter.com/hagerhu) 维护的「湾区周报」的第3期。湾区周报，关注湾区互联网、科技和创业；阅读英文优质文章，每周进步一点点。
 
 ---
 
