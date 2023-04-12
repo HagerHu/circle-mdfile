@@ -11,7 +11,7 @@ tags:
   - "优质文章"
   - "独立黑客"
   - "深度工作"
-thumbnail: "https://roehl.dev/images/one_year_of_indie_hacking_banner.pngg"
+thumbnail: "https://roehl.dev/images/one_year_of_indie_hacking_banner.png"
 image: "https://roehl.dev/images/one_year_of_indie_hacking_banner.png"
 ---
 
