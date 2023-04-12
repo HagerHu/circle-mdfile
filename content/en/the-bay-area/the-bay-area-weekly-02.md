@@ -8,14 +8,13 @@ categories:
   - "the-bay-area"
 toc: true
 tags:
-  - "优质文章"
-  - "独立黑客"
-  - "开始创业"
+  - "indiehackers"
+  - "startup"
 thumbnail: "https://cdn.nlark.com/yuque/0/2023/jpeg/177619/1679362044964-661ddbc6-43ee-4b2f-8bfa-6c1af1ed1d1c.jpeg"
 image: "https://cdn.nlark.com/yuque/0/2023/jpeg/177619/1679362044964-661ddbc6-43ee-4b2f-8bfa-6c1af1ed1d1c.jpeg"
 ---
 
-这是 [@HagerHu](https://twitter.com/hagerhu) 维护的「湾区周报」的第2期。湾区周报，关注湾区互联网、科技和创业；阅读英文优质文章，每周进步一点点。
+Bay Area Weekly is maintained by [@HagerHu](https://twitter.com/hagerhu), focus on the internet, technology, and startup. Reading original english article, make progress weekly.
 
 ---
 

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>indie hacking on Circle: Build your own system</title>
+    <link>https://usistem.com/en/tags/indie-hacking/</link>
+    <description>Recent content in indie hacking on Circle: Build your own system</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 04 Apr 2023 17:45:33 +0800</lastBuildDate><atom:link href="https://usistem.com/en/tags/indie-hacking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bay Area Weekly Issue 3</title>
+      <link>https://usistem.com/en/the-bay-area/the-bay-area-weekly-03/</link>
+      <pubDate>Tue, 04 Apr 2023 17:45:33 +0800</pubDate>
+      
+      <guid>https://usistem.com/en/the-bay-area/the-bay-area-weekly-03/</guid>
+      <description>Bay Area Weekly is maintained by @HagerHu , focus on the internet, technology, and startup. Reading original english article, make progress weekly.
+One Year of indie hacking A personal reflection on one year of indie hacking. Roehl Sybing shares his experiences, successes, and challenges, as well as insights and advice for others interested in pursuing a similar path.
+https://roehl.dev/blog/one_year_of_indie_hacking/ Make progress with systems Discusses the importance of setting goals and developing systems to achieve them.</description>
+    </item>
+    
+  </channel>
+</rss>
