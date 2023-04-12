@@ -4,7 +4,6 @@
 ## 湾区周报中文版
 
 [第 1 期](https://usistem.com/zh/the-bay-area/the-bay-area-weekly-01/)
-
 750 Words是《艺术家的方式》中所学到的晨间页面的数字版本，由 @buster 创立，用于日常记录私人日志，750 差不多是 3 页纸的字数。
 
 [第 2 期](https://usistem.com/zh/the-bay-area/the-bay-area-weekly-02/)
