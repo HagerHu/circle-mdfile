@@ -2,7 +2,7 @@
 title: "湾区周报 第3期"
 date: 2023-04-04T17:45:33+08:00
 draft: false
-description: 周报版本的湾区日报。一个毕业后工作了三年的德国学生，在经历 COVID 和知道 indiehackers 后，辞职尝试了一年独立黑客，文章讲述做了什么，带来了多少收入，还有这一年里的思考和收获。
+description: 这是我维护的湾区周报，周报版本的湾区日报。一个毕业后工作了三年的德国学生，在经历 COVID 和知道 indiehackers 后，辞职尝试了一年独立黑客，文章讲述做了什么，带来了多少收入，还有这一年里的思考和收获。
 keywords: ["湾区","湾区日报","indie hacking","make progress","deep work","湾区周报"]
 categories:
   - "湾区周报"
@@ -11,8 +11,8 @@ tags:
   - "优质文章"
   - "独立黑客"
   - "深度工作"
-thumbnail: "https://cdn.nlark.com/yuque/0/2023/jpeg/177619/1679362044964-661ddbc6-43ee-4b2f-8bfa-6c1af1ed1d1c.jpeg"
-image: "https://cdn.nlark.com/yuque/0/2023/jpeg/177619/1679362044964-661ddbc6-43ee-4b2f-8bfa-6c1af1ed1d1c.jpeg"
+thumbnail: "https://roehl.dev/images/one_year_of_indie_hacking_banner.pngg"
+image: "https://roehl.dev/images/one_year_of_indie_hacking_banner.png"
 ---
 
 这是 [@HagerHu](https://twitter.com/hagerhu) 维护的「湾区周报」的第3期。湾区周报，关注湾区互联网、科技和创业；阅读英文优质文章，每周进步一点点。
