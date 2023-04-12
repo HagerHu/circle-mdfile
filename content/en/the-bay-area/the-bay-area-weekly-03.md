@@ -11,8 +11,8 @@ tags:
   - "indie hacking"
   - "make progress"
   - "deep work"
-thumbnail: "https://cdn.nlark.com/yuque/0/2023/jpeg/177619/1679362044964-661ddbc6-43ee-4b2f-8bfa-6c1af1ed1d1c.jpeg"
-image: "https://cdn.nlark.com/yuque/0/2023/jpeg/177619/1679362044964-661ddbc6-43ee-4b2f-8bfa-6c1af1ed1d1c.jpeg"
+thumbnail: "https://roehl.dev/images/one_year_of_indie_hacking_banner.png"
+image: "https://roehl.dev/images/one_year_of_indie_hacking_banner.png"
 ---
 
 Bay Area Weekly is maintained by [@HagerHu](https://twitter.com/hagerhu), focus on the internet, technology, and startup. Reading original english article, make progress weekly.

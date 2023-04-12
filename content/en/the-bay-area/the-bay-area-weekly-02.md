@@ -10,8 +10,8 @@ toc: true
 tags:
   - "indiehackers"
   - "startup"
-thumbnail: "https://cdn.nlark.com/yuque/0/2023/jpeg/177619/1679362044964-661ddbc6-43ee-4b2f-8bfa-6c1af1ed1d1c.jpeg"
-image: "https://cdn.nlark.com/yuque/0/2023/jpeg/177619/1679362044964-661ddbc6-43ee-4b2f-8bfa-6c1af1ed1d1c.jpeg"
+thumbnail: "https://storage.googleapis.com/indie-hackers.appspot.com/content/gumroad__home.jpg"
+image: "https://storage.googleapis.com/indie-hackers.appspot.com/content/gumroad__home.jpg"
 ---
 
 Bay Area Weekly is maintained by [@HagerHu](https://twitter.com/hagerhu), focus on the internet, technology, and startup. Reading original english article, make progress weekly.
