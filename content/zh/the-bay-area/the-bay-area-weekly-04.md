@@ -19,11 +19,11 @@ image: "https://justinjackson.ca/assets/content/cowork-vernon.jpeg"
 
 ---
 
-### [I CAN'T WORK FROM HOME](https://justinjackson.ca/wfh)
+### [I CAN\'T WORK FROM HOME](https://justinjackson.ca/wfh)
 
 远程工作虽然可以在任何地方工作，但作者觉得在办公室效率会更高，和其他人一起更有能量。于是 Justin Jackson 和他的3个朋友在离家不远的地方租了个房子，将它打造成了共享办公空间。
 
-## [Looking back on Ghost's growth with John O'Nolan](https://www.producthunt.com/stories/looking-back-on-ghost-s-growth-with-john-o-nolan)
+## [Looking back on Ghost\'s growth with John O\'Nolan](https://www.producthunt.com/stories/looking-back-on-ghost-s-growth-with-john-o-nolan)
 
 这是 2021 年 John O'Nolan 在 Ghost 4.0 版本后的采访，回顾了 Ghost 项目在 Kickstarter 的发起和募资，还有 Ghost 8 年来的经历和增长，以及为什么要开源。
 

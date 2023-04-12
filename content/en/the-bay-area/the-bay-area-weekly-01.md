@@ -1,5 +1,5 @@
 ---
-title: "The bay Area Weekly No.1"
+title: "Bay Area Weekly Issue 1"
 date: 2023-03-21T11:22:33+08:00
 draft: false
 description: This is my first post of the bay area weekly. It came from wanquribao. Since wanquribao has not back online, I think i can start with weekly report myself, focusing on startup, quantified self and internet.
@@ -14,7 +14,7 @@ thumbnail: "https://cdn.nlark.com/yuque/0/2023/jpeg/177619/1679362044964-661ddbc
 image: "https://cdn.nlark.com/yuque/0/2023/jpeg/177619/1679362044964-661ddbc6-43ee-4b2f-8bfa-6c1af1ed1d1c.jpeg"
 ---
 
-This is the first issue of "Bay Area Weekly" maintained by [@HagerHu](https://twitter.com/hagerhu). Bay Area Weekly focuses on the internet, technology, and entrepreneurship in the Bay Area. Make progress every week.
+This is the first issue of "Bay Area Weekly" maintained by [@HagerHu](https://twitter.com/hagerhu). Bay Area Weekly focuses on the internet, technology, and startup. Make progress every week.
 
 ---
 

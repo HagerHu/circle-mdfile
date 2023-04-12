@@ -5,7 +5,48 @@
     <link>https://usistem.com/en/</link>
     <description>Recent content on Circle: Build your own system</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 22 Mar 2023 14:33:33 +0800</lastBuildDate><atom:link href="https://usistem.com/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Apr 2023 15:00:33 +0800</lastBuildDate><atom:link href="https://usistem.com/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bay Area Weekly Issue 4</title>
+      <link>https://usistem.com/en/the-bay-area/the-bay-area-weekly-04/</link>
+      <pubDate>Wed, 12 Apr 2023 15:00:33 +0800</pubDate>
+      
+      <guid>https://usistem.com/en/the-bay-area/the-bay-area-weekly-04/</guid>
+      <description>这是 @HagerHu 维护的「湾区周报」的第4期。湾区周报，关注湾区互联网、科技和创业；阅读英文优质文章，每周进步一点点。
+I CAN&amp;amp;rsquo;T WORK FROM HOME 远程工作虽然可以在任何地方工作，但作者觉得在办公室效率会更高，和其他人一起更有能量。于是 Justin Jackson 和他的3个朋友在离家不远的地方租了个房子，将它打造成了共享办公空间。
+Looking back on Ghost&amp;amp;rsquo;s growth with John O&amp;amp;rsquo;Nolan 这是 2021 年 John O&amp;rsquo;Nolan 在 Ghost 4.0 版本后的采访，回顾了 Ghost 项目在 Kickstarter 的发起和募资，还有 Ghost 8 年来的经历和增长，以及为什么要开源。
+How to become a full time creator Gergely Orosz 是 substack newsletter 订阅排名第一的 The Pragmatic Engineer 频道作者，分享了成为全职创作者的背景、经验，不同创作者的类型和案例，也提到了 Pieter Levels, Tony Dinh 等。
+Why you’re approaching your habits all wrong MyMind 是一款旨在帮助人们改善自己的习惯的应用程序。许多人在改变他们的习惯时通常采取错误的方法，如过于专注于目标而忽略过程、试图立即改变所有习惯、缺乏明确的行动计划以及对自己过于苛刻等。</description>
+    </item>
+    
+    <item>
+      <title>Bay Area Weekly Issue 3</title>
+      <link>https://usistem.com/en/the-bay-area/the-bay-area-weekly-03/</link>
+      <pubDate>Tue, 04 Apr 2023 17:45:33 +0800</pubDate>
+      
+      <guid>https://usistem.com/en/the-bay-area/the-bay-area-weekly-03/</guid>
+      <description>This is maintained by @HagerHu 维护的「湾区周报」的第3期。湾区周报，关注湾区互联网、科技和创业；阅读英文优质文章，每周进步一点点。
+One Year of indie hacking 一个毕业后工作了三年的德国学生，在经历 COVID 和知道 indiehackers 后，辞职尝试了一年独立黑客，文章讲述做了什么，带来了多少收入，还有这一年里的思考和收获。
+https://roehl.dev/blog/one_year_of_indie_hacking/ Make progress with systems 一个好的系统，能够在你累了或者困难的时候也能帮助你继续前行。目标是前进的方向，而系统应该让我们看见进展，确保正在向着目标前进。
+https://ashleyjanssen.com/set-direction-with-goals-make-progress-with-systems/ A guide to deep work for founders 忙碌并不意味着高效。为了有所进展，你需要深度工作。深度工作则需要你讲所有精力投入到某个任务中，并且在这段时间内保持专注，不被打扰。文章提到了很多推荐的方法和应用。
+https://www.producthunt.com/stories/a-guide-to-deep-work-for-founders </description>
+    </item>
+    
+    <item>
+      <title>Bay Area Weekly Issue 2</title>
+      <link>https://usistem.com/en/the-bay-area/the-bay-area-weekly-02/</link>
+      <pubDate>Tue, 28 Mar 2023 16:53:33 +0800</pubDate>
+      
+      <guid>https://usistem.com/en/the-bay-area/the-bay-area-weekly-02/</guid>
+      <description>这是 @HagerHu 维护的「湾区周报」的第2期。湾区周报，关注湾区互联网、科技和创业；阅读英文优质文章，每周进步一点点。
+周末项目 GumRoad 的成长分享 Gumroad是一个帮助创作者在线销售数字产品的平台。在采访中，Sahil 分享了他建立 Gumroad 的过程。
+没有什么能比现实生活中学到的经验和教训更好。有时候你只是需要行动起来，确保你快乐、享受过程，而且正在学习。
+https://www.indiehackers.com/interview/4fc6cbc0e8 Day One 连续记录 850 天的采访 Kevin Anderson 使用 Day One 连续记录了 850天日记。记录日记让我反思并感恩每一个小日子，感受我变成了什么样的人以及我是如何成长的。通过连续记录，我能够看到所有让我到达现在这个位置的步骤，无论是向前还是向后的。
+https://dayoneapp.com/blog/streak-story-kevin-anderson/ Levels 为什么关闭社交平台私信 Pieter Levels 是数字游民 NomadList 的创始人，在这篇文章中提到他为什么关闭了社交平台的私信功能，以及是如何安排自己的一天24小时的。我们每个人的一天都是24个小时，去掉睡眠、饮食、洗簌的必须时间，哪些事情是自己在意并且愿意持续投入时间去做的。
+https://levels.io/contact/ 目前我们所知道的 ChatGPT4 OpenAI ChatGPT4 支持文字和图像输入，与GPT-3.5相比，它更可靠、更有创造力，能够处理更加微妙的指令。ChatGPT4 有些不错的想法帮助微软促进业务发展，如在 Azure 中提供 GPT 系列 API。另外，强大的人工智能技术如GPT-4的快速发展带来了一些重大的风险。
+https://www.producthunt.com/stories/gpt-4-everything-we-know-so-far </description>
+    </item>
+    
     <item>
       <title>Get started with self tracking？</title>
       <link>https://usistem.com/en/the-bay-area/get-started-with-self-tracking/</link>
@@ -17,12 +58,12 @@ The purpose of this website is to support anybody who wants to use empirical met
     </item>
     
     <item>
-      <title>The bay Area Weekly No.1</title>
+      <title>Bay Area Weekly Issue 1</title>
       <link>https://usistem.com/en/the-bay-area/the-bay-area-weekly-01/</link>
       <pubDate>Tue, 21 Mar 2023 11:22:33 +0800</pubDate>
       
       <guid>https://usistem.com/en/the-bay-area/the-bay-area-weekly-01/</guid>
-      <description>This is the first issue of &amp;ldquo;Bay Area Weekly&amp;rdquo; maintained by @HagerHu . Bay Area Weekly focuses on the internet, technology, and entrepreneurship in the Bay Area. Make progress every week.
+      <description>This is the first issue of &amp;ldquo;Bay Area Weekly&amp;rdquo; maintained by @HagerHu . Bay Area Weekly focuses on the internet, technology, and startup. Make progress every week.
 750 Words 750 Words是《艺术家的方式》中所学到的晨间页面的数字版本，由 @buster 创立，用于日常记录私人日志，750 差不多是 3 页纸的字数。写作，可以在记录的过程中了解自己。
 750 Words is basically a digital version of morning pages, an idea I learned about from Julia Cameron&amp;rsquo;s The Artist&amp;rsquo;s Way. It is founded by @buster for daily personal journaling. 750 is the words count of three standard pages.</description>
     </item>
