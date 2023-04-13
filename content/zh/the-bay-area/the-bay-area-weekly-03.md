@@ -19,20 +19,14 @@ image: "https://roehl.dev/images/one_year_of_indie_hacking_banner.png"
 
 ---
 
-## One Year of indie hacking
+## [One Year of indie hacking](https://cmcn.me/link?target=https://roehl.dev/blog/one_year_of_indie_hacking/)
 
 一个毕业后工作了三年的德国学生，在经历 COVID 和知道 indiehackers 后，辞职尝试了一年独立黑客，文章讲述做了什么，带来了多少收入，还有这一年里的思考和收获。
 
-<https://roehl.dev/blog/one_year_of_indie_hacking/>
-
-## Make progress with systems
+## [Make progress with systems](https://cmcn.me/link?target=https://ashleyjanssen.com/set-direction-with-goals-make-progress-with-systems/)
 
 一个好的系统，能够在你累了或者困难的时候也能帮助你继续前行。目标是前进的方向，而系统应该让我们看见进展，确保正在向着目标前进。
 
-<https://ashleyjanssen.com/set-direction-with-goals-make-progress-with-systems/>
-
-## A guide to deep work for founders
+## [A guide to deep work for founders](https://cmcn.me/link?target=https://www.producthunt.com/stories/a-guide-to-deep-work-for-founders)
 
 忙碌并不意味着高效。为了有所进展，你需要深度工作。深度工作则需要你讲所有精力投入到某个任务中，并且在这段时间内保持专注，不被打扰。文章提到了很多推荐的方法和应用。
-
-<https://www.producthunt.com/stories/a-guide-to-deep-work-for-founders>
