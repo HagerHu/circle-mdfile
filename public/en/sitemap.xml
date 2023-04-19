@@ -15,6 +15,19 @@
                 href="https://usistem.com/en/the-bay-area/the-bay-area-weekly-04/"
                 />
   </url><url>
+    <loc>https://usistem.com/en/the-bay-area/the-bay-area-weekly-05/</loc>
+    <lastmod>2023-04-12T15:00:33+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://usistem.com/zh/the-bay-area/the-bay-area-weekly-05/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://usistem.com/en/the-bay-area/the-bay-area-weekly-05/"
+                />
+  </url><url>
     <loc>https://usistem.com/en/categories/</loc>
     <lastmod>2023-04-12T15:00:33+08:00</lastmod>
     <xhtml:link
@@ -44,7 +57,23 @@
     <loc>https://usistem.com/en/tags/cowork-space/</loc>
     <lastmod>2023-04-12T15:00:33+08:00</lastmod>
   </url><url>
+    <loc>https://usistem.com/en/tags/miss-excel/</loc>
+    <lastmod>2023-04-12T15:00:33+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://usistem.com/zh/tags/miss-excel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://usistem.com/en/tags/miss-excel/"
+                />
+  </url><url>
     <loc>https://usistem.com/en/tags/newsletter/</loc>
+    <lastmod>2023-04-12T15:00:33+08:00</lastmod>
+  </url><url>
+    <loc>https://usistem.com/en/tags/remote-work/</loc>
     <lastmod>2023-04-12T15:00:33+08:00</lastmod>
   </url><url>
     <loc>https://usistem.com/en/tags/</loc>
