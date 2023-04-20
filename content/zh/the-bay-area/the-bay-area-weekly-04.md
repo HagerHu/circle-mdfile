@@ -2,6 +2,7 @@
 title: "湾区周报 第4期"
 date: 2023-04-12T15:00:33+08:00
 draft: false
+rss:  <p><a href="https://cmcn.me/link?target=https://justinjackson.ca/wfh">[I CAN\'T WORK FROM HOME]</a></br><p>远程工作虽然可以在任何地方工作，但 Justin Jackson 觉得在办公室效率会更高，和其他人一起更有能量。于是和他的3个朋友在离家不远的地方租了个房子，将它打造成了共享办公空间。</p></br><p><a href="https://cmcn.me/link?target=https://usistem.com/zh/the-bay-area/the-bay-area-weekly-04/">继续阅读本期内容</a></p>
 description: 湾区周报，关注湾区互联网、科技和创业。远程工作虽然可以在任何地方工作，但 Justin Jackson 觉得在办公室效率会更高，和其他人一起更有能量，于是和他的3个朋友在离家不远的地方租了个房子，将它打造成了共享办公空间。
 keywords: ["湾区","湾区日报","indie hacking","Ghost","substack","The Programtic Engineer"]
 categories:
