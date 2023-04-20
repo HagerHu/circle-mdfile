@@ -12,8 +12,7 @@
       <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://usistem.com/zh/page/about/</guid>
-      <description><p>集合，专注量化自我的工具类应用。支持体能训练，时间管理，睡眠跟踪等多个数据维度；还可以支持时间进度，目标跟踪，数据趋势等图表统计。</p>
-</description>
+      <description>集合，专注量化自我的工具类应用。</description>
     </item>
     
     <item>
@@ -22,24 +21,7 @@
       <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://usistem.com/zh/page/privacy/</guid>
-      <description><h2 id="完全隐私">完全隐私</h2>
-<p>Circle 没有用户分析数据和跟踪数据，没有广告插件。
-不会将用户相关的个人数据上传至服务器，仅在服务器端存储了用户使用的频道关系数据。</p>
-<h2 id="隐私政策">隐私政策</h2>
-<p>我们非常认真地对待客户的隐私。 我们通过 Circle 应用程序收集的任何数据都受此政策约束。
-使用 Circle 即表示你同意这份隐私政策的条款和条件。 你继续使用AutoSleep即表明你接受本政策，也接受我们将来可能对其进行的任何修订。当前隐私政策会一直在此发布，可随时查看。</p>
-<h2 id="应用隐私">应用隐私</h2>
-<p>请查看下方，看看我们在App Store中的应用程序隐私标签。
-我们不会收集及任何形式存储来自你HealthKit的任何数据或销售给广告或其他营运机构。
-<img src="https://cdn.nlark.com/yuque/0/2022/png/177619/1671541801356-7405a58c-8970-41a0-84f2-1a7d375d2e52.png#averageHue=%230c0d0d&amp;clientId=udd84f303-2df6-4&amp;crop=0&amp;crop=0&amp;crop=1&amp;crop=1&amp;from=paste&amp;height=378&amp;id=u3deca155&amp;margin=%5Bobject%20Object%5D&amp;name=CleanShot%202022-12-20%20at%2021.09.33%402x.png&amp;originHeight=756&amp;originWidth=790&amp;originalType=binary&amp;ratio=1&amp;rotation=0&amp;showTitle=false&amp;size=441206&amp;status=done&amp;style=none&amp;taskId=uf103fb85-b578-48ce-8539-4298d775b80&amp;title=&amp;width=395" alt="CleanShot 2022-12-20 at 21.09.33@2x.png"></p>
-<h2 id="系统集成">系统集成</h2>
-<p>为了进行分析，向你呈现信息，Circle 依赖于 Apple HealthKit 数据库，读取其中的健康数据（包括心率、活动能量、睡眠分析、体能训练等），这些健康数据从 iPhone 和 Apple Watch 上获取。
-除非你特别授权访问，否则 Circle 无法从或向 Apple HealthKit 数据库读取或写入数据。
-在你开始使用某个频道时，会提示相关的数据使用授权。如睡眠跟踪频道，从 Apple HealthKit 数据库读取睡眠分析数据进行归集和展示，然后在 Circle 应用程序中向您呈现这些数据。 Circle 应用程序不会将这些数据传输到别的地方，它保留在你的 iPhone 中供你个人使用。
-需要用户手工录入的数据项，Circle 会将数据归档存储在用户个人的 iCloud Drive 中。这些数据都是存储在用户的设备上，可以支持不同设备间的数据同步。</p>
-<h2 id="数据收集">数据收集</h2>
-<p>Circle 不收集任何信息。</p>
-</description>
+      <description>用户数据收集和隐私政策</description>
     </item>
     
     <item>
@@ -48,23 +30,7 @@
       <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://usistem.com/zh/page/support/</guid>
-      <description><h2 id="联系我们">联系我们</h2>
-<p>我们在集合应用的个人页提供了联系我们入口，欢迎在应用中给我们反馈。</p>
-<img src="https://cdn.nlark.com/yuque/0/2022/png/177619/1671543838672-47ec5632-3692-4f3c-90a5-d776e006caf1.png#averageHue=%23e3e3e2&clientId=u1157f54f-d9e8-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=825&id=ue2f4e6d1&margin=%5Bobject%20Object%5D&name=CleanShot%202022-12-20%20at%2021.43.38%402x.png&originHeight=1650&originWidth=882&originalType=binary&ratio=1&rotation=0&showTitle=false&size=574672&status=done&style=none&taskId=ub97c0ce0-5f85-4a40-bd95-900a9230c1e&title=&width=441" width="241" height="">
-<p>你也可以通过点击<a href="mailto:tf1028&#43;support@gmail.com?subject=circle-support">向我们发送电子邮件</a>
-来联系我们。</p>
-<h2 id="保持更新">保持更新</h2>
-<p>在Twitter上关注我们。我们会发布新版本的更新和活动，并提供公开测试版的链接，这样你就可以在全球发布前测试新版本。
-推特账号：@hagerhu</p>
-<h2 id="contact-us">Contact Us</h2>
-<p>We provid contact us entry in profile page. Welcome your any feedback.</p>
-<img src="https://cdn.nlark.com/yuque/0/2022/png/177619/1671543512845-3118681a-b89d-4c53-ab19-dc709ceb8abf.png#averageHue=%23ecedeb&clientId=u43189988-a26a-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=813&id=KaumO&margin=%5Bobject%20Object%5D&name=CleanShot%202022-12-20%20at%2021.38.18%402x.png&originHeight=1626&originWidth=888&originalType=binary&ratio=1&rotation=0&showTitle=false&size=595542&status=done&style=none&taskId=ub6da86e7-cbd6-4d14-bec1-e7c2ad6dac1&title=&width=444" width="222">
-<p>You can also click <a href="mailto:tf1028&#43;support@gmail.com?subject=circle-support">send us an email</a>
- to contact us.</p>
-<h2 id="keep-update">Keep Update</h2>
-<p>Follow us on Twitter. We post updates for new release and event provide links for public beta versions, so you can test out new version before they go global.
-Twitter: @hagerhu</p>
-</description>
+      <description>联系我们和保持更新</description>
     </item>
     
   </channel>
