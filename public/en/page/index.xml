@@ -12,7 +12,8 @@
       <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://usistem.com/en/page/about/</guid>
-      <description>content about circle application</description>
+      <description><p>This is the content about circle app.</p>
+</description>
     </item>
     
     <item>
@@ -21,7 +22,22 @@
       <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://usistem.com/en/page/privacy/</guid>
-      <description>privacy policy about user data and collection</description>
+      <description><h2 id="total-privacy">Total Privacy</h2>
+<p>Circle does not have user analytics data or tracking data and does not have any ad plug-ins. Personal data related to the user is not uploaded to the server; only the channel relationship data used by the user is stored on the server.</p>
+<h2 id="privacy-policy">Privacy Policy</h2>
+<p>We take our customers&rsquo; privacy very seriously. Any data collected through the Circle app is governed by this policy.
+Use of Circle implies that you agree to the terms and conditions of this privacy policy. Continued use of AutoSleep implies that you accept this policy as well as any future revisions we may make to it. The current privacy policy is always available here for review.</p>
+<h2 id="app-privacy">App Privacy</h2>
+<p>Please see below for our app&rsquo;s privacy label in the App Store.
+We do not collect or store any data from your HealthKit in any form or sell it to advertisers or other operations.
+<img src="https://cdn.nlark.com/yuque/0/2022/png/177619/1671542189488-9934f21b-026d-43c3-9cfd-b2e094e3eed6.png#averageHue=%230c0d0d&amp;clientId=u642af534-eefc-4&amp;crop=0&amp;crop=0&amp;crop=1&amp;crop=1&amp;from=paste&amp;height=378&amp;id=u1f4c34db&amp;margin=%5Bobject%20Object%5D&amp;name=image.png&amp;originHeight=756&amp;originWidth=790&amp;originalType=binary&amp;ratio=1&amp;rotation=0&amp;showTitle=false&amp;size=366613&amp;status=done&amp;style=none&amp;taskId=u88ca9059-f972-4655-b2e5-aa68648f42d&amp;title=&amp;width=395" alt="image.png"></p>
+<h2 id="system-integration">System Integration</h2>
+<p>In order to analyze and present information to you, Circle relies on the Apple HealthKit database to read health data including heart rate, activity energy, sleep analysis, and fitness training from your iPhone and Apple Watch.
+Unless you specifically authorize access, Circle cannot read or write data to or from the Apple HealthKit database. When you start using a particular channel, you will be prompted for data usage authorization. For example, the sleep tracking channel reads sleep analysis data from the Apple HealthKit database for aggregation and presentation, and then presents this data to you within the Circle app. The Circle app does not transmit this data elsewhere; it remains on your iPhone for your personal use.
+Data items that require manual input from the user are stored in the user&rsquo;s personal iCloud Drive and are stored on the user&rsquo;s device to support data synchronization between different devices.</p>
+<h2 id="data-collection">Data Collection</h2>
+<p>Circle does not collect any information</p>
+</description>
     </item>
     
     <item>
@@ -30,7 +46,15 @@
       <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://usistem.com/en/page/support/</guid>
-      <description>User Support and Contact Us</description>
+      <description><h2 id="contact-us">Contact Us</h2>
+<p>We provid contact us entry in profile page. Welcome your any feedback.
+<img src="https://cdn.nlark.com/yuque/0/2022/png/177619/1671543512845-3118681a-b89d-4c53-ab19-dc709ceb8abf.png#averageHue=%23ecedeb&amp;clientId=u43189988-a26a-4&amp;crop=0&amp;crop=0&amp;crop=1&amp;crop=1&amp;from=paste&amp;height=813&amp;id=KaumO&amp;margin=%5Bobject%20Object%5D&amp;name=CleanShot%202022-12-20%20at%2021.38.18%402x.png&amp;originHeight=1626&amp;originWidth=888&amp;originalType=binary&amp;ratio=1&amp;rotation=0&amp;showTitle=false&amp;size=595542&amp;status=done&amp;style=none&amp;taskId=ub6da86e7-cbd6-4d14-bec1-e7c2ad6dac1&amp;title=&amp;width=444" alt="CleanShot 2022-12-20 at 21.38.18@2x.png"></p>
+<p>You can also click <a href="mailto:tf1028&#43;support@gmail.com?subject=circle-support">send us an email</a>
+ to contact us.</p>
+<h2 id="keep-update">Keep Update</h2>
+<p>Follow us on Twitter. We post updates for new release and event provide links for public beta versions, so you can test out new version before they go global.
+Twitter: @hagerhu</p>
+</description>
     </item>
     
   </channel>
