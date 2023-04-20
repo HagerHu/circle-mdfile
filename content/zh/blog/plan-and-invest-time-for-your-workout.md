@@ -1,8 +1,8 @@
 ---
 author: Hager Hu
-title: 使用「目标跑量」看见跑量进度
-date: 2023-02-13
-description: 跑步是个很简单的运动，只要迈开腿，左脚超过右脚，右脚再超过左脚，不断的反复循环就是了。我一开始的目标也很简单，每天能够闭合 Apple Watch 上的运动圆环。
+title: 计划并跟踪你的「运动时长」
+date: 2023-04-20
+description: 定期运动保持健康，怎样才能保持运动？做好一件事的前提就是有没有花时间。运动时长正是为了保持健康而来，你可以设置今年的运动时长，拆解到每月、每周的运动时长，剩下的就是坚持运动，定期运动，健康自然就会到来。
 keywords: ["blog"]
 thumbnail: /images/channel-running-distance.png
 image: "https://usistem.com/images/channel-running-distance.png"

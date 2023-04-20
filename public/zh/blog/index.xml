@@ -7,6 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 13 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://usistem.com/zh/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>计划并跟踪你的「运动时长」</title>
+      <link>https://usistem.com/zh/blog/plan-and-invest-time-for-your-workout/</link>
+      <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://usistem.com/zh/blog/plan-and-invest-time-for-your-workout/</guid>
+      <description>跑步是个很简单的运动，只需要迈开腿，左脚超过右脚，右脚再超过左脚，不断的重复循环。
+我一开始的目标也很简单，每天能够闭合 Apple Watch 上的运动圆环。慢慢的，开始想跑个马拉松，跑了马拉松就想追求 PB，从轻松跑到配速跑再到心率跑，不管怎么跑，都是要通过跑量来提高的。
+目标跑量正是为了跟踪不同时间维度的跑量而来，可以设置你年度跑量，月度跑量和每周跑量，然后通过图表圆环的形式显示当前的跑量和进度。
+频道介绍 【目标跑量】频道，为图表分析类型，获取【健康】中的【体能训练】数据，统计户外跑步或室内跑步的距离，设置目标跑量(年度、月度和周跑量)后，用于跟进体能训练跑步跑量的目标完成进度。
+戴着 Apple Watch 开始运动，使用【体能训练】开始运动，选择训练类型后开始记录运动时的数据，如距离，心率，配速等，这些数据在运动结束后会自动同步到 iPhone 的【健康】上。
+【目标跑量】频道会通过读取【健康】中的体能训练数据进行统计分析，通过本周、本月、今年三个维度展示目标跑量的完成比。
+数据授权 【目标跑量】频道需要获取【健康】中的体能训练原始数据进行分析和现实，首次使用时需要先进行数据授权，涉及到的数据类型：
+●运动，用于获取体能训练的开始时间和结束时间，距离等信息；
+开始使用
+点击屏幕下方【使用】按钮，会弹出 访问健康数据 页面，页面会列出频道涉及使用的所有健康数据类型，可以直接选择【全部打开】，然后点击右上角【允许】按钮，等待成功后即完成数据授权。
+完成前面数据授权后，页面会切换到【图表】页面，此时可以看到已经存在【目标跑量】频道。
+频道设置 点击进入，可以设置频道置顶，目标跑量参数设置等，如下图</description>
+    </item>
+    
+    <item>
       <title>集合 - 构建你的个人系统</title>
       <link>https://usistem.com/zh/blog/circle-build-your-own-system/</link>
       <pubDate>Sat, 04 Mar 2023 14:22:33 +0800</pubDate>

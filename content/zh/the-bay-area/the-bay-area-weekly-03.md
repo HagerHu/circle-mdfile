@@ -15,7 +15,7 @@ thumbnail: "https://roehl.dev/images/one_year_of_indie_hacking_banner.png"
 image: "https://roehl.dev/images/one_year_of_indie_hacking_banner.png"
 ---
 
-这是 [@HagerHu](https://twitter.com/hagerhu) 维护的「湾区周报」的第3期。湾区周报，关注湾区互联网、科技和创业；阅读英文优质文章，每周进步一点点。
+这是 [@HagerHu](https://cmcn.me/link?target=https://twitter.com/hagerhu) 维护的「湾区周报」的第3期。湾区周报，关注湾区互联网、科技和创业；阅读英文优质文章，每周进步一点点。
 
 ---
 

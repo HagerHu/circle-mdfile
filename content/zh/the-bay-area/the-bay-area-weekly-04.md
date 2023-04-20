@@ -15,7 +15,7 @@ thumbnail: "https://justinjackson.ca/assets/content/cowork-vernon.jpeg"
 image: "https://justinjackson.ca/assets/content/cowork-vernon.jpeg"
 ---
 
-这是 [@HagerHu](https://twitter.com/hagerhu) 维护的「湾区周报」的第4期。湾区周报，关注湾区互联网、科技和创业；阅读英文优质文章，每周进步一点点。
+这是 [@HagerHu](https://cmcn.me/link?target=https://twitter.com/hagerhu) 维护的「湾区周报」的第4期。湾区周报，关注湾区互联网、科技和创业；阅读英文优质文章，每周进步一点点。
 
 ---
 
