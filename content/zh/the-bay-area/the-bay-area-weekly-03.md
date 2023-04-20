@@ -2,7 +2,7 @@
 title: "湾区周报 第3期"
 date: 2023-04-04T17:45:33+08:00
 draft: false
-rss:  <p><a href="https://cmcn.me/link?target=https://roehl.dev/blog/one_year_of_indie_hacking/">[One Year of indie hacking]</a></br> 一个毕业后工作了三年的德国学生，在经历 COVID 和知道 indiehackers 后，辞职尝试了一年独立黑客，文章讲述做了什么，带来了多少收入，还有这一年里的思考和收获。</p></br><p><a href="https://cmcn.me/link?target=https://usistem.com/zh/the-bay-area/the-bay-area-weekly-04/">继续阅读本期内容</a></p>
+rss:  <p><a href="https://cmcn.me/link?target=https://roehl.dev/blog/one_year_of_indie_hacking/">[One Year of indie hacking]</a></br> 一个毕业后工作了三年的德国学生，在经历 COVID 和知道 indiehackers 后，辞职尝试了一年独立黑客，文章讲述做了什么，带来了多少收入，还有这一年里的思考和收获。</p>
 description: 这是我维护的湾区周报，周报版本的湾区日报。一个毕业后工作了三年的德国学生，在经历 COVID 和知道 indiehackers 后，辞职尝试了一年独立黑客，文章讲述做了什么，带来了多少收入，还有这一年里的思考和收获。
 keywords: ["湾区","湾区日报","indie hacking","make progress","deep work","湾区周报"]
 categories:
