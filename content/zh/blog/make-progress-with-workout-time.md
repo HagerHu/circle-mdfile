@@ -4,8 +4,8 @@ title: 为自己的健康投入一些时间
 date: 2023-04-20
 description: 是否觉得自己的健康很重要？那么为了自己的健康，投入一些时间吧，每天、每周、每月都投入一些时间去运动。也可以给自己设置一个运动时长目标，剩下的就是坚持运动，定期运动，健康自然就会到来。
 keywords: ["blog"]
-thumbnail: /images/channel-running-distance.png
-image: "https://usistem.com/images/channel-running-distance.png"
+thumbnail: /images/workout-time-goal.png
+image: "https://usistem.com/images/workout-time-goal.png"
 ---
 
 年轻时，只有在生病和不舒服的时候，我们才意识到健康很好；随着年龄变大，平时也开始感觉到健康是多么重要。现在开始跑步人越来越多，很多跑友也都是关注健康开始跑步的。
