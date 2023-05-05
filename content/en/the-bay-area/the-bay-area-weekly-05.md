@@ -18,7 +18,7 @@ thumbnail: "https://cdn.nlark.com/yuque/0/2023/png/177619/1681911357767-56be2ce1
 image: "https://cdn.nlark.com/yuque/0/2023/png/177619/1681911357767-56be2ce1-340c-402d-b8c4-13ce699d239a.png"
 ---
 
-这是 [@HagerHu](https://cmcn.me/link?target=https://twitter.com/hagerhu) 维护的「湾区周报」的第 5 期。湾区周报，关注湾区互联网、科技和创业；阅读英文优质文章，每周进步一点点。
+Bay Area Weekly is maintained by [@HagerHu](https://twitter.com/hagerhu), focus on the internet, technology, and startup. Reading original english article, make progress weekly.
 
 ---
 

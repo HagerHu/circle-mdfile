@@ -2,8 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://usistem.com/zh/categories/</loc>
+    <lastmod>2023-05-05T15:02:33+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://usistem.com/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://usistem.com/zh/categories/"
+                />
+  </url><url>
+    <loc>https://usistem.com/zh/tags/make/</loc>
+    <lastmod>2023-05-05T15:02:33+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://usistem.com/en/tags/make/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://usistem.com/zh/tags/make/"
+                />
+  </url><url>
+    <loc>https://usistem.com/zh/tags/</loc>
+    <lastmod>2023-05-05T15:02:33+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://usistem.com/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://usistem.com/zh/tags/"
+                />
+  </url><url>
+    <loc>https://usistem.com/zh/tags/travel/</loc>
+    <lastmod>2023-05-05T15:02:33+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://usistem.com/en/tags/travel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://usistem.com/zh/tags/travel/"
+                />
+  </url><url>
     <loc>https://usistem.com/zh/</loc>
-    <lastmod>2023-04-20T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-05T15:02:33+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,21 +67,27 @@
                 href="https://usistem.com/zh/"
                 />
   </url><url>
-    <loc>https://usistem.com/zh/blog/make-progress-with-workout-time/</loc>
-    <lastmod>2023-04-20T00:00:00+00:00</lastmod>
+    <loc>https://usistem.com/zh/categories/%E6%B9%BE%E5%8C%BA%E5%91%A8%E6%8A%A5/</loc>
+    <lastmod>2023-05-05T15:02:33+08:00</lastmod>
   </url><url>
-    <loc>https://usistem.com/zh/categories/</loc>
-    <lastmod>2023-04-19T21:36:33+08:00</lastmod>
+    <loc>https://usistem.com/zh/the-bay-area/the-bay-area-weekly-06/</loc>
+    <lastmod>2023-05-05T15:02:33+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://usistem.com/en/categories/"
+                href="https://usistem.com/en/the-bay-area/the-bay-area-weekly-06/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://usistem.com/zh/categories/"
+                href="https://usistem.com/zh/the-bay-area/the-bay-area-weekly-06/"
                 />
+  </url><url>
+    <loc>https://usistem.com/zh/tags/%E4%BC%98%E8%B4%A8%E6%96%87%E7%AB%A0/</loc>
+    <lastmod>2023-05-05T15:02:33+08:00</lastmod>
+  </url><url>
+    <loc>https://usistem.com/zh/blog/make-progress-with-workout-time/</loc>
+    <lastmod>2023-04-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usistem.com/zh/tags/gumroad/</loc>
     <lastmod>2023-04-19T21:36:33+08:00</lastmod>
@@ -47,22 +105,6 @@
                 href="https://usistem.com/zh/tags/miss-excel/"
                 />
   </url><url>
-    <loc>https://usistem.com/zh/tags/</loc>
-    <lastmod>2023-04-19T21:36:33+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://usistem.com/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://usistem.com/zh/tags/"
-                />
-  </url><url>
-    <loc>https://usistem.com/zh/categories/%E6%B9%BE%E5%8C%BA%E5%91%A8%E6%8A%A5/</loc>
-    <lastmod>2023-04-19T21:36:33+08:00</lastmod>
-  </url><url>
     <loc>https://usistem.com/zh/the-bay-area/the-bay-area-weekly-05/</loc>
     <lastmod>2023-04-19T21:36:33+08:00</lastmod>
     <xhtml:link
@@ -75,9 +117,6 @@
                 hreflang="zh"
                 href="https://usistem.com/zh/the-bay-area/the-bay-area-weekly-05/"
                 />
-  </url><url>
-    <loc>https://usistem.com/zh/tags/%E4%BC%98%E8%B4%A8%E6%96%87%E7%AB%A0/</loc>
-    <lastmod>2023-04-19T21:36:33+08:00</lastmod>
   </url><url>
     <loc>https://usistem.com/zh/tags/%E5%85%B1%E4%BA%AB%E5%8A%9E%E5%85%AC/</loc>
     <lastmod>2023-04-12T15:00:33+08:00</lastmod>
