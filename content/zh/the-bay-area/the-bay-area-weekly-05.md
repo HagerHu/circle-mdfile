@@ -3,7 +3,7 @@ title: "湾区周报 第5期"
 date: 2023-04-19T21:36:33+08:00
 draft: false
 rss:  <p><a href="https://cmcn.me/link?target=https://www.theverge.com/22807858/tiktok-influencer-microsoft-excel-instagram-decoder-podcast">[How an Excel Tiktoker manifested her way to making six figures a day]</a></br> Kat 是 Miss Excel 的创始人，分享了能够传递能量的内容更容易传播，自己是如何找到适合视频的音乐的，以及在 Miss Excel 为什么采用一次付费而不是订阅制？整个采访都能看到 Kat 平和的心态和传递的能量。</p>
-description: 湾区周报，关注湾区互联网、科技和创业。Kat 是 Miss Excel 的创始人，分享了能够传递能量的内容更容易传播，自己是如何找到适合视频的音乐的，以及在 Miss Excel 为什么采用一次付费而不是订阅制？整个采访都能看到 Kat 平和的心态和传递的能量。
+description: Kat 是 Miss Excel 的创始人，分享了能够传递能量的内容更容易传播，自己是如何找到适合视频的音乐的，以及在 Miss Excel 为什么采用一次付费而不是订阅制？整个采访都能看到 Kat 平和的心态和传递的能量。
 keywords: ["湾区","湾区日报","湾区周报","Miss Excel","Gumroad","风险人才","750 Words"]
 categories:
   - "湾区周报"

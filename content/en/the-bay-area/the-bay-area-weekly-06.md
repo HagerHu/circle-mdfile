@@ -3,7 +3,7 @@ title: "Bay Area Weekly Issue 6"
 date: 2023-05-05T15:02:33+08:00
 draft: false
 rss:  <p><a href="https://cmcn.me/link?target=https://levels.io/bootstrapping/">[Bootstrapping Side Projects into Profitable Startups]</a></br> NomadList 创始人 Pieter Levels 在荷兰分享的内容，如何将业余项目变成能够带来收入的创业，总结了创业过程的几个关键步骤，包括想法、构建、交付、增长和变现。这5个关键流程也是 Pieter Levels 在其电子书[《MAKE, Bootstraper's HandBook》](https://readmake.com/) 中的重要内容。</p>
-description: 湾区周报，关注湾区互联网、科技和创业。NomadList 创始人 Pieter Levels 在荷兰分享的内容，如何将业余项目变成能够带来收入的创业，总结了创业过程的几个关键步骤，包括想法、构建、交付、增长和变现。这5个关键流程也是 Pieter Levels 在其电子书[《MAKE, Bootstraper's HandBook》](https://readmake.com/) 中的重要内容。
+description: NomadList 创始人 Pieter Levels 在荷兰分享的内容，如何将业余项目变成能够带来收入的创业，总结了创业过程的几个关键步骤，包括想法、构建、交付、增长和变现。这5个关键流程也是 Pieter Levels 在其电子书[《MAKE, Bootstraper's HandBook》](https://readmake.com/) 中的重要内容。
 keywords: ["湾区","湾区日报","湾区周报","NomadList","Pieter Levels","startup from thailand","Gyroscope","Indiehackers"]
 categories:
   - "the-bay-area"
