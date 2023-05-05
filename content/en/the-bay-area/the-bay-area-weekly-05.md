@@ -1,9 +1,6 @@
 ---
-title: "湾区周报 第5期"
-date: 2023-04-19T21:36:33+08:00
-draft: false
 title: "Bay Area Weekly Issue 4"
-date: 2023-04-12T15:00:33+08:00
+date: 2023-04-19T15:00:33+08:00
 draft: false
 description: The way Kat run miss excel and structure her business is through energetics. This is what she did for creating, “I get my energy to a place where my presence is truly magnetic and I will get visions of what will go viral. Then I run to my computer and I make those ideas because essentially social media content is straight-up energy transmissions. You’re receiving my energy through the phone.”
 keywords: ["remote work","gumroad","miss excel","invest in people", "750 words"]
