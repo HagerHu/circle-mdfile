@@ -2,8 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://usistem.com/zh/tags/buffer/</loc>
+    <lastmod>2023-05-11T17:16:33+08:00</lastmod>
+  </url><url>
     <loc>https://usistem.com/zh/categories/</loc>
-    <lastmod>2023-05-05T15:02:33+08:00</lastmod>
+    <lastmod>2023-05-11T17:16:33+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -14,6 +17,47 @@
                 hreflang="zh"
                 href="https://usistem.com/zh/categories/"
                 />
+  </url><url>
+    <loc>https://usistem.com/zh/tags/goals-and-systems/</loc>
+    <lastmod>2023-05-11T17:16:33+08:00</lastmod>
+  </url><url>
+    <loc>https://usistem.com/zh/tags/remote-worker/</loc>
+    <lastmod>2023-05-11T17:16:33+08:00</lastmod>
+  </url><url>
+    <loc>https://usistem.com/zh/tags/</loc>
+    <lastmod>2023-05-11T17:16:33+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://usistem.com/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://usistem.com/zh/tags/"
+                />
+  </url><url>
+    <loc>https://usistem.com/zh/</loc>
+    <lastmod>2023-05-11T17:16:33+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://usistem.com/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://usistem.com/zh/"
+                />
+  </url><url>
+    <loc>https://usistem.com/zh/categories/%E6%B9%BE%E5%8C%BA%E5%91%A8%E6%8A%A5/</loc>
+    <lastmod>2023-05-11T17:16:33+08:00</lastmod>
+  </url><url>
+    <loc>https://usistem.com/zh/the-bay-area/the-bay-area-weekly-07/</loc>
+    <lastmod>2023-05-11T17:16:33+08:00</lastmod>
+  </url><url>
+    <loc>https://usistem.com/zh/gift-for-best/</loc>
+    <lastmod>2023-05-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://usistem.com/zh/tags/make/</loc>
     <lastmod>2023-05-05T15:02:33+08:00</lastmod>
@@ -28,19 +72,6 @@
                 href="https://usistem.com/zh/tags/make/"
                 />
   </url><url>
-    <loc>https://usistem.com/zh/tags/</loc>
-    <lastmod>2023-05-05T15:02:33+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://usistem.com/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://usistem.com/zh/tags/"
-                />
-  </url><url>
     <loc>https://usistem.com/zh/tags/travel/</loc>
     <lastmod>2023-05-05T15:02:33+08:00</lastmod>
     <xhtml:link
@@ -53,22 +84,6 @@
                 hreflang="zh"
                 href="https://usistem.com/zh/tags/travel/"
                 />
-  </url><url>
-    <loc>https://usistem.com/zh/</loc>
-    <lastmod>2023-05-05T15:02:33+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://usistem.com/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://usistem.com/zh/"
-                />
-  </url><url>
-    <loc>https://usistem.com/zh/categories/%E6%B9%BE%E5%8C%BA%E5%91%A8%E6%8A%A5/</loc>
-    <lastmod>2023-05-05T15:02:33+08:00</lastmod>
   </url><url>
     <loc>https://usistem.com/zh/the-bay-area/the-bay-area-weekly-06/</loc>
     <lastmod>2023-05-05T15:02:33+08:00</lastmod>
@@ -156,6 +171,9 @@
                 href="https://usistem.com/zh/the-bay-area/the-bay-area-weekly-03/"
                 />
   </url><url>
+    <loc>https://usistem.com/zh/gift-for-best/ninetendo-switch/</loc>
+    <lastmod>2023-03-28T16:53:33+08:00</lastmod>
+  </url><url>
     <loc>https://usistem.com/zh/tags/%E5%BC%80%E5%A7%8B%E5%88%9B%E4%B8%9A/</loc>
     <lastmod>2023-03-28T16:53:33+08:00</lastmod>
   </url><url>
@@ -177,6 +195,9 @@
   </url><url>
     <loc>https://usistem.com/zh/the-bay-area/weekend-gumroad-making-350k-mrr/</loc>
     <lastmod>2023-03-25T20:22:33+08:00</lastmod>
+  </url><url>
+    <loc>https://usistem.com/zh/gift-for-best/amazon-kindle/</loc>
+    <lastmod>2023-03-22T14:12:33+08:00</lastmod>
   </url><url>
     <loc>https://usistem.com/zh/tags/%E8%AE%B0%E5%BD%95%E9%87%8F%E5%8C%96/</loc>
     <lastmod>2023-03-22T14:12:33+08:00</lastmod>
