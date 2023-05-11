@@ -1,0 +1,813 @@
+<!DOCTYPE html>
+<html lang="zh" itemscope itemtype="http://schema.org/WebPage"><head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <link rel="icon" href="/favicon.svg">
+
+  <title>
+  周末项目Gumroad的成长分享 - 集合
+  </title>
+  <meta name="twitter:image:alt" content="article share image" />
+  <meta name="twitter:image" content="https://buffer.com/resources/content/images/size/w2000/format/avif/2020/11/DJI_0014-1.jpg" />
+  <meta property="og:site_name" content="集合 - 构建你的个人系统" />
+  <meta property="og:title" content="周末项目Gumroad的成长分享 - 集合" />
+  <meta property="og:image" content="https://buffer.com/resources/content/images/size/w2000/format/avif/2020/11/DJI_0014-1.jpg" />
+  <meta name="description" content="今天是我发布第一个版本的Buffer的十周年纪念日。它最初只是一个衡量兴趣的落地页，然后是一个我独自开发的非常基础的产品，现在已经成为了一家领先的社交媒体管理平台，拥有近90名遍布全球的远程团队成员，拥有我们自己的方法和文化。达成这个里程碑对我来说意义重大，我认为回顾Buffer的每一年旅程会很有趣。" />
+  <meta name="keywords" content="Buffer,Remote Work,Startup Story" />
+  <meta name="generator" content="Hugo 0.107.0"><link
+    rel="stylesheet"
+    href="https://usistem.com/css/styles.min.c76a4afd80ba6d5031398ff69293784ba088b8e689b6e9cc6ca662c345671c65.css"
+    integrity="sha256-x2pK/YC6bVAxOY/2kpN4S6CIuOaJtunMbKZiw0VnHGU="
+  />
+  
+  
+
+  <meta property="og:title" content="周末项目Gumroad的成长分享" />
+<meta property="og:description" content="今天是我发布第一个版本的Buffer的十周年纪念日。它最初只是一个衡量兴趣的落地页，然后是一个我独自开发的非常基础的产品，现在已经成为了一家领先的社交媒体管理平台，拥有近90名遍布全球的远程团队成员，拥有我们自己的方法和文化。达成这个里程碑对我来说意义重大，我认为回顾Buffer的每一年旅程会很有趣。" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://usistem.com/zh/the-bay-area/buffer-10-years/" /><meta property="article:section" content="the-bay-area" />
+<meta property="article:published_time" content="2023-05-06T16:22:33+08:00" />
+<meta property="article:modified_time" content="2023-05-06T16:22:33+08:00" /><meta property="og:site_name" content="集合" />
+
+
+  <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="周末项目Gumroad的成长分享"/>
+<meta name="twitter:description" content="今天是我发布第一个版本的Buffer的十周年纪念日。它最初只是一个衡量兴趣的落地页，然后是一个我独自开发的非常基础的产品，现在已经成为了一家领先的社交媒体管理平台，拥有近90名遍布全球的远程团队成员，拥有我们自己的方法和文化。达成这个里程碑对我来说意义重大，我认为回顾Buffer的每一年旅程会很有趣。"/>
+
+  <meta itemprop="name" content="周末项目Gumroad的成长分享">
+<meta itemprop="description" content="今天是我发布第一个版本的Buffer的十周年纪念日。它最初只是一个衡量兴趣的落地页，然后是一个我独自开发的非常基础的产品，现在已经成为了一家领先的社交媒体管理平台，拥有近90名遍布全球的远程团队成员，拥有我们自己的方法和文化。达成这个里程碑对我来说意义重大，我认为回顾Buffer的每一年旅程会很有趣。"><meta itemprop="datePublished" content="2023-05-06T16:22:33+08:00" />
+<meta itemprop="dateModified" content="2023-05-06T16:22:33+08:00" />
+<meta itemprop="wordCount" content="79">
+<meta itemprop="keywords" content="创业,独立黑客,Buffer," />
+  
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8T78BT60ZH"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-8T78BT60ZH', { 'anonymize_ip': false });
+}
+</script>
+
+
+  
+  <meta name="lang" content="zh" />
+  
+</head>
+<body class="dark:bg-gray-800 dark:text-white relative flex flex-col min-h-screen"><header class="container flex justify-between md:justify-between gap-4 flex-wrap p-6 mx-auto relative">
+  <a href="https://usistem.com/zh/" class="capitalize font-extrabold text-2xl">
+    
+    集合
+    
+  </a>
+  <button class="mobile-menu-button md:hidden">
+    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+      <line x1="4" y1="8" x2="20" y2="8" />
+      <line x1="4" y1="16" x2="20" y2="16" />
+    </svg>
+  </button>
+  <ul class="mobile-menu absolute z-10 px-6 pb-6 md:p-0 top-full left-0 w-full md:w-auto md:relative hidden md:flex flex-col md:flex-row items-end md:items-center gap-4 lg:gap-6 bg-white dark:bg-gray-800">
+
+    
+    <li><a href="/zh/blog">博客</a></li>
+    
+    <li><a href="/zh/the-bay-area">湾区</a></li>
+    
+    <li><a href="/zh/page/about/">关于</a></li>
+    
+    <li><a href="/zh/page/privacy/">隐私</a></li>
+    
+    <li><a href="/zh/page/support/">支持</a></li>
+    
+
+    
+    
+    <li class="flex items-center">
+      
+      
+      
+      
+      <svg xmlns="http://www.w3.org/2000/svg" class="mr-2" width="16" height="16" viewBox="0 0 24 24" stroke-width="1.5"
+        stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+        <circle cx="12" cy="12" r="9" />
+        <line x1="3.6" y1="9" x2="20.4" y2="9" />
+        <line x1="3.6" y1="15" x2="20.4" y2="15" />
+        <path d="M11.5 3a17 17 0 0 0 0 18" />
+        <path d="M12.5 3a17 17 0 0 1 0 18" />
+      </svg>
+      <a href="/en" lang="en">English</a>
+      
+      
+    </li>
+    
+    
+
+    
+
+    
+    <li class="grid place-items-center">
+      <span class="toggle-dark-mode inline-block cursor-pointer">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="1.5"
+          stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+          <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+          <circle cx="12" cy="12" r="3" />
+          <line x1="12" y1="5" x2="12" y2="5.01" />
+          <line x1="17" y1="7" x2="17" y2="7.01" />
+          <line x1="19" y1="12" x2="19" y2="12.01" />
+          <line x1="17" y1="17" x2="17" y2="17.01" />
+          <line x1="12" y1="19" x2="12" y2="19.01" />
+          <line x1="7" y1="17" x2="7" y2="17.01" />
+          <line x1="5" y1="12" x2="5" y2="12.01" />
+          <line x1="7" y1="7" x2="7" y2="7.01" />
+        </svg>
+      </span>
+    </li>
+    
+  </ul>
+</header>
+<main class="flex-1">
+  
+  
+
+  
+
+  <article class="prose lg:prose-lg mx-auto my-8 dark:prose-dark px-4">
+
+    <h1 class="text-2xl font-bold mb-2">周末项目Gumroad的成长分享</h1>
+    
+    <h5 class="text-sm flex items-center flex-wrap">
+      <svg xmlns="http://www.w3.org/2000/svg" class="mr-1" width="16" height="16" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+        <rect x="4" y="5" width="16" height="16" rx="2" />
+        <line x1="16" y1="3" x2="16" y2="7" />
+        <line x1="8" y1="3" x2="8" y2="7" />
+        <line x1="4" y1="11" x2="20" y2="11" />
+        <rect x="8" y="15" width="2" height="2" />
+      </svg>
+      发表于 
+  
+    May 6, 2023
+  
+
+
+      
+      
+        
+      
+    </h5>
+    
+
+    <details id="TableOfContents" open class="px-4 mt-4 bg-gray-100 dark:bg-gray-700 rounded toc" style="position:fixed; margin-left:760px; top:200px;">
+    <summary class="flex items-center font-bold py-2 px-4 cursor-pointer justify-between select-none text-black dark:text-white">
+      <span>文章目录</span>
+      <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-chevron-down" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+        <polyline points="6 9 12 15 18 9"></polyline>
+     </svg>
+    </summary>
+
+    <ul class="mt-2 pb-4">
+        
+
+        
+        <li>
+        <a href="#2010%e5%b9%b4%e8%8e%b7%e5%be%97%e4%bb%98%e8%b4%b9%e5%ae%a2%e6%88%b7%e5%90%8e%e6%88%91%e5%b0%86%e9%87%8d%e7%82%b9%e8%bd%ac%e5%90%91%e8%90%a5%e9%94%80">2010年：获得付费客户后，我将重点转向营销</a>
+        
+
+        
+        </li><li>
+        <a href="#2011%e5%b9%b4%e5%85%a8%e8%81%8c%e4%bb%8e%e4%ba%8bbuffer%e5%b7%a5%e4%bd%9c">2011年：全职从事Buffer工作</a>
+        
+
+        
+        </li><li>
+        <a href="#2012%e5%b9%b4%e6%88%90%e4%b8%ba%e4%b8%80%e4%b8%aa%e5%ae%8c%e5%85%a8%e5%88%86%e5%b8%83%e5%bc%8f%e7%9a%84%e5%85%ac%e5%8f%b8">2012年：成为一个完全分布式的公司</a>
+        
+
+        
+        </li><li>
+        <a href="#2013%e5%b9%b4%e5%88%b6%e5%ae%9a%e4%bb%b7%e5%80%bc%e8%a7%82%e5%b9%b6%e8%b7%b5%e8%a1%8c">2013年：制定价值观并践行</a>
+        
+
+        
+        </li><li>
+        <a href="#2014%e5%b9%b4%e6%88%91%e4%bb%ac%e6%9c%80%e5%a4%a7%e7%9a%84%e6%94%b6%e8%b4%ad%e8%a6%81%e7%ba%a6%e5%92%8c%e5%86%b3%e5%ae%9a%e4%b8%8d%e5%87%ba%e5%94%aebuffer">2014年：我们最大的收购要约和决定不出售Buffer</a>
+        
+
+        
+        </li><li>
+        <a href="#2015%e5%b9%b4%e6%8e%a2%e7%b4%a2%e8%87%aa%e6%88%91%e7%ae%a1%e7%90%86">2015年：探索自我管理</a>
+        
+
+        
+        </li><li>
+        <a href="#2016%e5%b9%b4%e6%8e%a8%e5%87%bareply%e7%84%b6%e5%90%8e%e9%9d%a2%e4%b8%b4%e7%8e%b0%e9%87%91%e6%b5%81%e6%8c%91%e6%88%98%e5%92%8c%e8%a3%81%e5%91%98">2016年：推出Reply，然后面临现金流挑战和裁员</a>
+        
+
+        
+        </li><li>
+        <a href="#2017%e5%b9%b4%e9%87%8d%e6%96%b0%e6%89%bf%e8%af%ba%e4%b8%80%e4%b8%aa%e5%8d%95%e4%b8%80%e7%9a%84%e9%81%93%e8%b7%af%e7%a8%b3%e5%ae%9a%e5%85%ac%e5%8f%b8%e7%bb%8f%e5%8e%86%e8%81%94%e5%90%88%e5%88%9b%e5%a7%8b%e4%ba%ba%e5%86%b2%e7%aa%81%e5%92%8c%e7%96%b2%e5%8a%b3%e7%9a%84%e4%bd%8e%e8%b0%b7">2017年：重新承诺一个单一的道路，稳定公司，经历联合创始人冲突和疲劳的低谷</a>
+        
+
+        
+        </li><li>
+        <a href="#2018%e5%b9%b4%e8%8a%b1%e8%b4%b9330%e4%b8%87%e7%be%8e%e5%85%83%e4%b9%b0%e5%87%ba%e6%8a%95%e8%b5%84%e8%80%85">2018年：花费330万美元买出投资者</a>
+        
+
+        
+        </li><li>
+        <a href="#2019%e5%b9%b4%e5%88%9b%e9%80%a0%e5%b9%b3%e8%a1%a1%e4%b8%ba%e8%87%aa%e5%b7%b1%e5%92%8cbuffer%e6%89%93%e9%80%a0%e5%8f%af%e6%8c%81%e7%bb%ad%e7%9a%84%e6%89%a9%e5%b1%95%e6%a8%a1%e5%bc%8f">2019年：创造平衡，为自己和Buffer打造可持续的扩展模式</a>
+        
+
+        
+        </li><li>
+        <a href="#2020%e5%b9%b4%e6%89%93%e9%80%a0%e4%b8%80%e4%b8%aa%e5%bc%b9%e6%80%a7%e5%85%ac%e5%8f%b8%e9%80%80%e5%90%8e%e4%b8%80%e6%ad%a5%e6%80%9d%e8%80%83%e7%9b%ae%e6%a0%87">2020年：打造一个弹性公司，退后一步思考目标</a>
+        </li></ul>
+  </details>
+
+    <p>本文使用 Raycast AI beta 翻译而成，英文版请点击<a href="https://cmcn.me/link?target=https://buffer.com/resources/10-years/" target="_blank" rel="noopener">阅读原文</a>
+。</p>
+<hr>
+<p>今天是我发布第一个版本的Buffer的十周年纪念日。它最初只是一个衡量兴趣的落地页，然后是一个我独自开发的非常基础的产品，现在已经成为了一家领先的社交媒体管理平台，拥有近90名遍布全球的远程团队成员，拥有我们自己的方法和文化。</p>
+<p>达成这个里程碑对我来说意义重大，我认为回顾Buffer的每一年旅程会很有趣。正如你所看到的，随着时间的推移，事情发生了巨大的变化，我为我们现在所处的位置感到无比自豪。</p>
+<h2 id="2010年获得付费客户后我将重点转向营销">2010年：获得付费客户后，我将重点转向营销</h2>
+<p>我在2010年11月30日推出了Buffer。启发我提前发布的其中一件事是Hacker News上的一个叫做“11月创业冲刺”的活动。我决定参加，并承诺在2010年11月底发布Buffer的第一个版本，我刚刚完成了这个目标。这个经验教会了我一个道理，那就是你总会有更多的功能或修复需要在发布之前完成，但是实际上将某些东西放到世界上才是真正开始推动力量的。</p>
+<p>在发布之前，我采用了许多“精益创业”的技术，以验证问题和受众的存在。幸运的是，这些步骤和一些好运使产品获得了强劲的初步动力。在发布后的四天内，我就有了第一个付费客户。</p>
+<p>在获得第一个付费客户后，我退后一步，承认这是一个重要的里程碑，并决定需要稍微转移一下重心。作为一名工程师，增加更多的功能很容易。我知道是时候专注于营销和进一步的客户开发了。这就是我决定找一个联合创始人的原因。是时候用一个证明了“足够好”的产品来保持开发、营销和客户开发的平衡了。显然，在早期阶段，会有更多的人发现价值。这是我试图保持的宝贵教训：当产品足够好的信号出现时，要大声宣传！</p>
+<p>阅读更多关于我如何在七周内从一个想法到获得付费客户的信息。</p>
+<h2 id="2011年全职从事buffer工作">2011年：全职从事Buffer工作</h2>
+<p>2011年对我来说是一个转型的一年，从合同网站开发工作转为全职在Buffer工作。在开始Buffer之前，我所做的是我称之为“波浪式工作”的方法，即为了一定时间内有足够的资金全职从事某个项目，你需要在设定的时间内全职工作或签订合同工作，然后在有足够资金支持自己一段时间后，全职从事自己的创业想法。尝试过波浪式工作后，我不建议将其作为长期策略。阅读我的想法。</p>
+<p>在Buffer，我完全专注于实现拉面盈利。我感觉如果能达到这个目标，一切都会改变。拉面盈利是指你只赚到足够支付生活费用的钱。对我来说，第一个目标是每月1200英镑。</p>
+<p>我们在2011年初实现了拉面盈利，随着收入的增长，我逐渐减少了合同开发工作的天数。我的联合创始人完成了他的大学学业，有了一个完全专注于Buffer的暑假。我们决定坐飞机去我们认为是创业圣地的旧金山。这实际上是我第一次到美国，现在我称之为家。在2011年晚些时候，强劲的收入增长结合了一年的Buffer工作和来自AngelPad的优秀教育，使我们筹集了45万美元。</p>
+<h2 id="2012年成为一个完全分布式的公司">2012年：成为一个完全分布式的公司</h2>
+<p>成为一个完全分布式的公司是我在2012年做出的决定。在我花了几个月的时间专注于决定是否要让Buffer成为一个分布式团队时，我向许多人寻求了建议。我从David Cancel那里得到了一些最好的建议，我有机会和他坐下来喝咖啡聊天。他的关键见解是，在他创办的几家公司中，他发现有两种情况效果很好，而一种情况效果不太好。他建议我们要么是完全分布式的，要么是所有人在同一个办公室里。David说，他曾经有一个主要办公室，大部分人都在那里，只有一两个人在远程工作，那种情况效果不太好。</p>
+<p>有了这个见解和进一步的思考，我们成为了一个完全分布式的团队。以下是我给团队分享这一消息的电子邮件截图：</p>
+<p>一封关于成为完全分布式公司的Buffer团队的电子邮件。</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2023/png/177619/1683797895016-c487ffff-d879-4af3-94d0-3824f40200cf.png" alt="[Pasted image 20230506125014.png]"></p>
+<p>我们立即雇用了几名远程工作的人，以快速平衡从旧金山组建的团队，并确保我们真正地完全分布式。这对我们来说是一个立竿见影的好处，特别是作为一个专注于出色客户支持的团队，因为我们很快就覆盖了所有时区。阅读更多关于我如何决定让Buffer成为完全远程的信息。</p>
+<p>成为完全远程并不意味着我们从不亲自见面。多年来，我们找到了办法将年度团建纳入我们的年度计划，并将其作为头脑风暴、讨论战略和为未来一年定调的关键时刻。在这篇文章中，了解更多关于我们过去十次团建的信息。</p>
+<h2 id="2013年制定价值观并践行">2013年：制定价值观并践行</h2>
+<p>在2013年，当我们成为一个由十个人组成的团队时，我们决定明确表达和记录我们的公司价值观。当时，我知道我们已经形成了强大的文化，所以我向团队征求意见，询问他们如何描述它。从那里，我们提出了最初的Buffer价值观。</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2023/png/177619/1683797887014-5b9ea688-002e-4880-8c0e-3e72da5ed034.png" alt="[Pasted image 20230506125153.png]"></p>
+<p>我们更为独特的价值观之一，即默认透明度，是Buffer最为人所知的价值观，也在同一年进行了考验。在2013年底，Buffer遭到了黑客攻击。我们向我们的客户和更广泛的公众透明并快速地分享了发生了什么以及我们正在采取什么行动。我们在了解到攻击来源之前就向我们的社区发出了警报，并在前几天每隔几个小时更新我们的进展情况。我们的社区和公众对这种开放性做出了良好的反应，这进一步证实了我当时的理论，即错误和停机时间可以是一件好事，只要它们很少并且得到了极好的处理。</p>
+<p>我们在2013年底通过透明化我们的薪资进一步承诺了这个价值观，这导致了Buffer开放职位的申请激增，我认为这是我们品牌增长的重要贡献。</p>
+<p>请查看我们的透明度页面，以了解Buffer透明度的完整时间轴。</p>
+<h2 id="2014年我们最大的收购要约和决定不出售buffer">2014年：我们最大的收购要约和决定不出售Buffer</h2>
+<p>在早期，我们收到了许多收购要约。我们收到的第一个Buffer的收购要约是在我们刚开始不久之后，但我们很容易拒绝了它，因为我们觉得我们有更多的增长前景，想看看我们的道路会通向何方。</p>
+<p>然而，在2014年，我们收到了迄今为止最大的收购要约。这是一家上市公司提出的九位数收购要约，它让我们停了下来，真正反思了一下。对于我自己、我的联合创始人和大多数早期股票期权授予的团队成员来说，这将是一个改变生活的结果。这样的要约引发了存在问题，让你真正思考你正在做的事情的目的和满足感。最终，我们相信我们还有更大的增长空间，我们的收入已经增长了6倍。然而，除了增长潜力之外，正是文化和我们成为其中一部分的运动（特别是透明度和远程工作），使我们拒绝了这个要约，继续走自己的道路。在这个决策过程中，我们收到的最难忘的建议来自Hiten Shah，他简单地问我们：“你完成了吗？”。</p>
+<p>金钱来来去去，但经历和学习才是我定义的真正财富。这就是为什么我试图把是否出售的决定框架化为每个路径中学习和经历的机会。我反思了一下，如果我出售了Buffer，我将会牺牲许多未来的学习机会。我问自己，从Buffer的那个阶段开始，我是否会有类似的学习机会。这是一篇更长的反思不出售Buffer的文章。</p>
+<p>我做出了继续与Buffer学习的决定，这是我至今感到非常满意的决定。我们没有进行收购，而是在2014年末筹集了350万美元，其中包括二级流动性组件，部分原因是为了消除出售的压力，帮助我们长期发展。现在，六年过去了，我仍然充满活力和快乐，整体而言，我认为这个决定是正确的。最近，我一直在寻找将退出与流动性分离的方法，以帮助我们对业务采取真正的长期视角。</p>
+<h2 id="2015年探索自我管理">2015年：探索自我管理</h2>
+<p>在阅读《重塑组织》（Reinventing Organizations）之后，整个团队投票并同意成为自我管理型。我们将Buffer重新组织成一个完全扁平化的结构。起初，这感觉很有活力和振奋人心。有一种很大的自由和所有权感。几个月后，事情开始感觉不对劲。人们很容易迷失方向，特别是那些刚加入Buffer的人。更有经验的人经常不知道如何帮忙并分享关于项目方向的想法。人们拥有的自由度非常大，没有任何指导、期望或责任，这让人感到非常沉重。</p>
+<p>对于客户来说，我们的自我管理设置是部分成功的。在这段时间里，我们追求的实验之一是创建一个专门面向客户快速推出新功能的团队。我们从这个团队中推出了我们受欢迎的图像创建产品Pablo。我们发现这些类型的项目的主要挑战在于资源分配、维护和改进。我们后来更加谨慎地选择了我们要快速推出的内容，同时保持了我们的实验文化。</p>
+<p>最终，我们决定放弃自我管理。尽管我认为最终我们更适合一些等级制度和结构，但这个时期在我的心中总是有一个特殊的位置。它向我强调了尝试大型实验是可以的，并且要知道其中不是所有的都会成功。这是我们在Buffer保持的一种心态，它帮助我们继续尝试我们的工作方式。随着公司的发展，这种探索和玩乐的方式通常会变得更加困难，需要勇气、乐观和好奇心，这是我致力于支持的。</p>
+<h2 id="2016年推出reply然后面临现金流挑战和裁员">2016年：推出Reply，然后面临现金流挑战和裁员</h2>
+<p>2016年初，我们推出了Buffer Reply，这是一项收购的结果，通过大量的工作来适应产品，使其感觉像是Buffer的产品。这是一个大胆的举动，超越了社交媒体营销，进入了社交客户服务。作为一家公司，我们一直为客户服务设定了非常高的标准，我们发现社交媒体上管理客户服务的工具不足。我们在Reply方面取得了一些成功，在接下来的几年里，我们从收购时的每月4,000美元的收入增长到了峰值的70,000美元以上。最终，我们发现社交媒体上的客户服务需求并不像我们想象的那样普遍，我们也发现自己在承担非常不同类型的产品和客户群体时变得力不从心，因此我们在2020年停止了Reply。Reply的经验增加了我们作为一家公司的雄心壮志，使我们服务的客户工作不再局限于单一领域，并为我们建立社交参与工具铺平了道路，该工具将于2021年初推出。</p>
+<p>在我们结束自我管理实验后，我们感到要再次加快团队的增长。我们最终从34人增长到94人。然而，随着团队的增长，需要新的系统，现有的方法开始出现裂缝并感到无效。尽管我们的收入增长强劲，但没有跟上招聘的步伐，我们发现自己面临财务挑战。</p>
+<p>在我们的 现金储备只有五个月的情况下，我们做出了非常痛苦的决定，裁掉了十名团队成员。最令人失望的是，这完全在我们的控制范围内。这一切都是因为我们过快地扩大了团队规模。我们认为我们在平衡招聘速度和收入增长方面非常谨慎，但实际上并不是。我们的一位顾问为所发生的事情给了我们一个恰当的比喻：我们搬进了一间我们靠月薪无法负担的房子。</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2023/png/177619/1683797868422-2831e5dd-b45b-4570-a0af-c875c092022f.png" alt="[Pasted image 20230506125235.png]"></p>
+<p>我们做出了一个重要但具有挑战性的决定，解决我们的财务挑战，而不是筹集一轮桥梁融资来支持我们度过难关。这是一个痛苦的过程，我现在亲身经历了裁员所带来的士气下降、对文化的负面影响和信任的磨损。对于一个小而紧密、以使命为驱动的团队来说，这尤其如此。尽管如此，我感激这为我们带来的个人和公司成长。我们立即提升了我们的财务运营水平，并承诺实现财务稳定。</p>
+<p>这一经历使我们真正了解了Buffer的可持续性，理解了我们如何长期存在。我认为，我们作为一家公司因此更加强大，并为我们的公司制定了一些强有力的财务原则，使我们四年来一直处于盈利和自我支撑的状态，我为我们的努力所取得的成果感到自豪。自从我们进行这些裁员以来，我们每个季度都盈利，连续18个季度盈利。</p>
+<h2 id="2017年重新承诺一个单一的道路稳定公司经历联合创始人冲突和疲劳的低谷">2017年：重新承诺一个单一的道路，稳定公司，经历联合创始人冲突和疲劳的低谷</h2>
+<p>也许2017年是Buffer旅程到目前为止最艰难的一年。在经历了艰难的2016年后，我专注于稳定公司，修复与团队之间的信任磨损，并为公司未来制定一个明确、单一且持久的方向。在此期间，我与联合创始人之间出现了重大冲突，几位投资者卷入了争端。这导致了我职业生涯中最低谷的时期和严重的疲劳感。</p>
+<p>在Buffer旅程的早期，我们很幸运地拥有了一切：快速增长、优秀的融资条件、建立了慷慨、积极、包容的文化，以及保持了很多个人自由。随着时间的推移，其中一些事情开始感觉像是取舍，我们开始辩论我们的道路。快速增长与自由、文化重点与产品、绩效与培养的关系。我并不认为这些事情本质上必须相互矛盾，但在2016年末，对我们所有人来说，感觉就是这样。我的联合创始人和我开始在这些选择的不同方面越来越分歧。曾经是互补优势和意见的美好平衡，变成了对团队不断的不协调和混乱信息。在尝试找到共同点之后，我们同意我们已经分道扬镳，发展了不同的愿景。在2017年初，我的联合创始人和我们的CTO都离开了Buffer。</p>
+<p>在这个重大的变化之后，我专注于稳定公司，为团队和我们的财务状况。我阐明了公司的明确路径，专注于可持续增长、产品质量和赋权的公司文化。我们的收入增长非常强劲，我决定在2017年大部分时间暂停招聘，以建立我们的盈利能力。我们从2016年初的每月亏损30-150,000美元，到2017年持续产生超过300,000美元的月利润。</p>
+<p>在最初的友好分手和开始作为朋友而不是同事见面后，我们开始敞开心扉，谈论悬而未决的不满。由此，我的联合创始人和我之间的怨恨开始增长，特别是在他可以期望的流动性的时间和规模方面。诚然 ，作为一家拥有85多名员工的公司的CEO，最近经历了裁员和重大领导层变动，这并不是我的首要关注点。所有这些都导致了高压、低能量和能力、消极和固执。这也给我与我的伴侣Jess的关系带来了挑战。我很高兴地说，我们度过了这个难关，并在2019年结婚了。</p>
+<p>在这一切过程中，我可以回顾过去，发现虽然我在锻炼并保持自己身体健康，同时对Buffer的未来感到乐观，但是肾上腺素是支撑我前进的动力。到了2017年春季，公司感觉更加稳定，肾上腺素不再需要。一旦肾上腺素消退，我的身心突然感受到了它所经历的一切。那时候，疲劳感袭击了我，我感到无法有效地工作。在我的领导团队的大力支持下，我休息了六周，重新充电，回来后更有能力应对接下来的一年。</p>
+<h2 id="2018年花费330万美元买出投资者">2018年：花费330万美元买出投资者</h2>
+<p>在2017年重新承诺追求长期可持续性之后，我与我们的主要风险投资者进行了谈话，发现我们的选择路径与投资不是很匹配。值得庆幸的是，当我们在2014年筹集资金时，我们已经公开了这种可能性，因此我们能够开展关于未来发展的谈判。这些讨论是具有挑战性和不舒适的，但推进这些讨论使我们能够确保Buffer在长期内独立运行。</p>
+<p>这些讨论以及一年半的盈利能力，使我们有能力花费330万美元买出风险投资者。这是我在Buffer旅程中做出的最重要的决定之一。这是Buffer的一个关键转折点，使我们真正走上了可持续、长期增长的道路，我们在股东基础的大幅提高中受益。我感激我们的风险投资者对这种解决方案的开放态度，以及我们众多仍然存在的投资者对这种非常规路径的兴奋。</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2023/png/177619/1683797855890-366d0ecb-ba53-4971-9e8c-1e85b570d940.png" alt="[Pasted image 20230506125254.png]"></p>
+<p>有时，这种稳定和为未来打好基础的努力会让我们感觉这是一条漫长的旅程，并且会让我们的注意力从客户身上转移，这让我感到痛苦。话虽如此，这是公司核心——所有权的基础性工作，并使我们能够更加注重客户，并减少未来的分心。此外，这有助于我们保持并继续打造一个将人放在利润之上的公司文化，我相信这将在未来几年带来回报。回顾过去，这些决策为Buffer带来了长期的好处。例如，我们找到了盈利和可持续性的方法，因此我们更好地为未知的未来事件做好了准备，比如COVID-19和全球大流行对我们的客户、团队和财务的影响。</p>
+<h2 id="2019年创造平衡为自己和buffer打造可持续的扩展模式">2019年：创造平衡，为自己和Buffer打造可持续的扩展模式</h2>
+<p>在许多方面，2019年对我来说是不同寻常的一年。在个人方面，我在博尔德建立了一个生活规律，结婚了，并重新关注滑雪等爱好。这一年，我真正努力将工作和个人生活融为一体，而不是采取早期的牺牲个人生活、关系和爱好，以便更多地投入时间和精力于工作的心态。虽然我们已经实现了财务上的可持续性，但我真正相信这种个人变化使我能够长期担任CEO，使其变得可持续。</p>
+<p>在Buffer方面，在为公司本身打下基础的两年后，我决定将这种思考转向我的角色。在2018年末，我意识到，建立一个支持系统将极大地使我受益。在没有活跃的联合创始人的情况下，我需要其他类型的支持来填补这个空白。这一次，我决定采取新的方法，组建一个人员团队，而不是依靠单个人。在2018年底，我聘请了一位新的执行助理，并让她帮助我建立这个支持网络，其中包括一位教练、一位财务顾问和定期与其他创始人保持联系。此外，自2017年中期以来，我一直在定期与一位心理治疗师会面。到2019年底，这个支持系统已经完全建立起来，我相信这个团队随着时间的推移会让我成为更好的领导者。</p>
+<p>2019年也标志着开始反思我的角色，我在年底采取的最初步骤是决定雇用一位产品领导。这是我选择完全放手的公司的最后一个领域，我们最近聘请了一位出色的首席产品官来领导我们并提升我们的产品战略、质量和运营水平。</p>
+<h2 id="2020年打造一个弹性公司退后一步思考目标">2020年：打造一个弹性公司，退后一步思考目标</h2>
+<p>我们即将迎来2020年的结束，我认为对许多人来说，称这一年为艰难的一年都是轻描淡写了。今年我们的重点是建立一个弹性公司。</p>
+<p>我开始了一年的旅行，并在泰国和新西兰休息了一段时间。作为这一过程的一部分，我有机会退后一步，开始反思我们已经取得的成就以及我可能想要将公司带到何处。关于我感到充满活力的客户和公司类型，开始出现了一定的清晰度。</p>
+<p>当然，到了二月底，COVID-19已经开始影响世界上许多国家。作为一个完全分布式的团队，有几个人在亚洲的Buffer很幸运地得到了早期警告，很快就清楚这将是全球性的挑战。我们取消了即将到来的希腊公司退休计划，并开始专注于如何让公司在这个时期尽可能地不受影响。我们今年的口号是弹性，注重人而不是利润和心理健康。我做出的一个关键决定是，我希望在影响团队、问题如燃尽、客户满意度和我们的财务状况等方面，尽可能减少对团队的影响，度过这一年。我们开展了一个COVID-19客户援助计划，减少了一些绩效标准和截止日期的关注，并实施了一个为期4天的工作周试点。</p>
+<p>今年，我们经历了Buffer历史上最严重的客户流失情况，成千上万的小企业客户努力适应并生存下来。从三月中旬到六月中旬，我们看到了收入的持续下降，在整个期间中，我们制定了无数新的预测和方案，以确保我们能够处于强势地位。幸运的是，下降趋势减缓了，自6月中旬以来，我们看到了适度的增长。</p>
+<p>随着疫情的财务影响稳定下来，我能够重新思考Buffer的目标和我的CEO角色。我与我的教练一起工作，得出的结论是，Buffer一直关注的是帮助小企业成功，并通过提供成长和服务受众的工具以及鼓舞人心的内容来进行良好的事业。至于我的角色，我意识到下一个关键的演变在于真正反思让我充满活力的工作与让我感到疲 乏的工作之间的区别。我喜欢专注于高层次的大胆愿景和战略，以及客户体验和我们文化方面的细节。对于运营和按时保持火车运行的中间环节，我感到不那么有趣。我一直在调整我的角色，Caro，我们的特别项目首席执行官，是我在Buffer上已经共事了八年的人，她一直在承担运营工作，为我们带来最好的长期成果。</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2023/png/177619/1683797845234-20f9b4c1-36bc-4dc8-a015-2ebba04dad1f.png" alt="[Pasted image 20230506125314.png]"></p>
+<p>回顾十年的公司建设，退后一步反思是非常有力的。回顾过去，我想分享一些额外的观察。</p>
+<p>在早期，把创业公司当作短跑比较容易，但实际上它是一场马拉松。保持节奏和照顾自己至关重要。定期休息是必要的，我将继续努力将休息和真正的假期纳入我的年度周期。此外，与生活一样，公司也有不同的季节。有增长阶段、市场变化和角色演变。总会有不同的重点阶段，这是不断朝着理想平衡的旅程。</p>
+<p>我已经学会，没有妥协很难成长，而在这样做之后，你可能不得不努力重新找到自己的目标。这是创建持久性东西所需的艰苦工作的一个例子。如果你想长期成功，你必须花时间反思和重新发现你的激情，并有时进行一些大胆的变革来重新回到正轨。</p>
+<p>我很幸运，也很有特权，取得了比我梦想的更多的成就。我为Buffer达到了10年的里程碑感到自豪，并在许多人的帮助下，创建了一个为全球85多人提供有意义就业的公司。我们还远未完美 ，仍有很多需要改进和学习的地方，但有时候需要停下来喘口气，说一声“我们创造了一些了不起的东西”。我们团队中有许多人已经参与这个疯狂的旅程六七八年了，这让我非常震惊。在某个人的生命中，花时间在某件事情上是非常重要的，我感激那些人。</p>
+<p>展望2021年，我已经学会了，它永远不会变得更容易，它总是很有趣，而且从不无聊。我对长期存在的公司的钦佩程度显著增加。我发现自己对存在数十年甚至更久的公司感到着迷，尤其是对那些创始人找到保持进化、增加雄心和保持活力的方法的公司感到着迷。</p>
+<p>我很兴奋地继续走这条长期可持续发展的道路，并感谢有一个不可思议的团队一起工作，成千上万的快乐客户和盈利的基础。拥有一个允许我们考虑年份而不是季度的结构，让我们感到解放。我准备再花十年的时间，看看我们能够达到什么高度，提供什么价值。</p>
+<p>无论这是你读过的我的第一篇文章，你从一开始就一直在关注，还是你在中间某个地方，感谢你抽出时间阅读这篇文章，我反思了Buffer历史上的这个重要里程碑。我非常感激我们周围的不可思议的社区和客户，让我们每年都能继续做我们所做的事情。</p>
+
+<link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;  width:100%;}
+	 
+</style>
+<hr>
+<div id="mc_embed_signup">
+    <form action="https://usistem.us21.list-manage.com/subscribe/post?u=ef62caeb7ad634bd270b26bfb&amp;id=e90464377a&amp;f_id=0098b2e1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+        <div id="mc_embed_signup_scroll">
+        <h2>邮件订阅内容更新</h2>
+<div class="mc-field-group">
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" required>
+	<span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span>
+</div>
+	<div id="mce-responses" class="clear foot">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_ef62caeb7ad634bd270b26bfb_e90464377a" tabindex="-1" value=""></div>
+        <div class="optionalParent">
+            <div class="clear foot">
+                <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+            </div>
+        </div>
+    </div>
+</form>
+</div>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+</article><div class="bg-orange-500 dark:bg-gray-900">
+  <div class="container px-4 py-12 mx-auto max-w-4xl grid grid-cols-1 md:grid-cols-2 gap-4 items-center">
+    <div>
+      <div class="text-2xl font-bold mb-2"></div>
+      <p class="opacity-60"></p>
+    </div>
+
+    <ul class="flex justify-center gap-x-3 flex-wrap gap-y-2">
+      
+
+      
+      <li>
+        <a
+          href="https://twitter.com/hagerhu"
+          target="_blank"
+          rel="noopener"
+          aria-label="Twitter"
+          class="p-1 inline-block rounded-full border border-transparent text-gray-500 hover:text-gray-800 hover:border-gray-800 cursor-pointer transition-colors dark:text-gray-600 dark:hover:border-gray-300 dark:hover:text-gray-300"
+        >
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="24"
+            height="24"
+            viewBox="0 0 24 24"
+            stroke-width="1.5"
+            stroke="currentColor"
+            fill="none"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          >
+            <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+            <path
+              d="M22 4.01c-1 .49 -1.98 .689 -3 .99c-1.121 -1.265 -2.783 -1.335 -4.38 -.737s-2.643 2.06 -2.62 3.737v1c-3.245 .083 -6.135 -1.395 -8 -4c0 0 -4.182 7.433 4 11c-1.872 1.247 -3.739 2.088 -6 2c3.308 1.803 6.913 2.423 10.034 1.517c3.58 -1.04 6.522 -3.723 7.651 -7.742a13.84 13.84 0 0 0 .497 -3.753c-.002 -.249 1.51 -2.772 1.818 -4.013z"
+            />
+          </svg>
+        </a>
+      </li>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+      <li>
+        <a
+          href="https://t.me/hagerhu"
+          target="_blank"
+          rel="noopener"
+          aria-label="Telegram"
+          class="p-1 inline-block rounded-full border border-transparent text-gray-500 hover:text-gray-800 hover:border-gray-800 cursor-pointer transition-colors dark:text-gray-600 dark:hover:border-gray-300 dark:hover:text-gray-300"
+        >
+           <svg
+            xmlns="http://www.w3.org/2000/svg"
+            class="icon icon-tabler icon-tabler-brand-telegram"
+            width="24"
+            height="24"
+            viewBox="0 0 24 24"
+            stroke-width="1.5"
+            stroke="currentColor"
+            fill="none"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          >
+            <path d="M11.944 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0a12 12 0 0 0-.056 0zm4.962 7.224c.1-.002.321.023.465.14a.506.506 0 0 1 .171.325c.016.093.036.306.02.472-.18 1.898-.962 6.502-1.36 8.627-.168.9-.499 1.201-.82 1.23-.696.065-1.225-.46-1.9-.902-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.48.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.245-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.83-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635z"/>          </svg>
+        </a>
+      </li>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+      <li>
+        <a
+          href="https://github.com/hagerhu"
+          target="_blank"
+          rel="noopener"
+          aria-label="GitHub"
+          class="p-1 inline-block rounded-full border border-transparent text-gray-500 hover:text-gray-800 hover:border-gray-800 cursor-pointer transition-colors dark:text-gray-600 dark:hover:border-gray-300 dark:hover:text-gray-300"
+        >
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="24"
+            height="24"
+            viewBox="0 0 24 24"
+            stroke-width="1.5"
+            stroke="currentColor"
+            fill="none"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          >
+            <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+            <path
+              d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5"
+            />
+          </svg>
+        </a>
+      </li>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+      <li>
+        <a
+          href="https://medium.com/@hagerhu"
+          target="_blank"
+          rel="noopener"
+          aria-label="Medium"
+          class="p-1 inline-block rounded-full border border-transparent text-gray-500 hover:text-gray-800 hover:border-gray-800 cursor-pointer transition-colors dark:text-gray-600 dark:hover:border-gray-300 dark:hover:text-gray-300"
+        >
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="24"
+            height="24"
+            viewBox="0 0 24 24"
+            stroke-width="1.5"
+            stroke="currentColor"
+            fill="none"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          >
+            <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+            <rect x="4" y="4" width="16" height="16" rx="2" />
+            <path d="M8 9h1l3 3l3 -3h1" />
+            <line x1="8" y1="15" x2="10" y2="15" />
+            <line x1="14" y1="15" x2="16" y2="15" />
+            <line x1="9" y1="9" x2="9" y2="15" />
+            <line x1="15" y1="9" x2="15" y2="15" />
+          </svg>
+        </a>
+      </li>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+      <li>
+        <a
+          href="https://dribbble.com/hagerhu"
+          target="_blank"
+          rel="noopener"
+          aria-label="Dribbble"
+          class="p-1 inline-block rounded-full border border-transparent text-gray-500 hover:text-gray-800 hover:border-gray-800 cursor-pointer transition-colors dark:text-gray-600 dark:hover:border-gray-300 dark:hover:text-gray-300"
+        >
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            class="icon icon-tabler icon-tabler-brand-dribbble"
+            width="24"
+            height="24"
+            viewBox="0 0 24 24"
+            stroke-width="1.5"
+            stroke="currentColor"
+            fill="none"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          >
+            <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+            <circle cx="12" cy="12" r="9" />
+            <path d="M9 3.6c5 6 7 10.5 7.5 16.2" />
+            <path d="M6.4 19c3.5 -3.5 6 -6.5 14.5 -6.4" />
+            <path d="M3.1 10.75c5 0 9.814 -.38 15.314 -5" />
+          </svg>
+        </a>
+      </li>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+      <li>
+        <a
+          href="https://youtube.com/@hagerhu"
+          target="_blank"
+          rel="noopener"
+          aria-label="YouTube"
+          class="p-1 inline-block rounded-full border border-transparent text-gray-500 hover:text-gray-800 hover:border-gray-800 cursor-pointer transition-colors dark:text-gray-600 dark:hover:border-gray-300 dark:hover:text-gray-300"
+        >
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            class="icon icon-tabler icon-tabler-brand-youtube"
+            width="24"
+            height="24"
+            viewBox="0 0 24 24"
+            stroke-width="1.5"
+            stroke="currentColor"
+            fill="none"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          >
+            <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+            <circle cx="12" cy="12" r="9" />
+            <path d="M10 9l5 3l-5 3z" />
+          </svg>
+        </a>
+      </li>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+    </ul>
+  </div>
+</div>
+
+    </main><footer class="container p-6 mx-auto flex justify-between items-center">
+  <span class="text-sm font-light">
+    
+    Copyright © 2023 - 集合量化, Ltd · All rights reserved
+    
+  </span>
+  <span onclick="window.scrollTo({top: 0, behavior: 'smooth'})" class="p-1 cursor-pointer">
+    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24" stroke-width="1.5"
+      stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M18 15l-6 -6l-6 6h12" />
+    </svg>
+  </span>
+</footer>
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8T78BT60ZH"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-8T78BT60ZH', { 'anonymize_ip': false });
+}
+</script>
+
+
+
+
+
+<script>
+  
+  const darkmode = document.querySelector('.toggle-dark-mode');
+  function toggleDarkMode() {
+    if (document.documentElement.classList.contains('dark')) {
+      document.documentElement.classList.remove('dark')
+      localStorage.setItem('darkmode', 'light')
+    } else {
+      document.documentElement.classList.add('dark')
+      localStorage.setItem('darkmode', 'dark')
+    }
+  }
+  if (darkmode) {
+    darkmode.addEventListener('click', toggleDarkMode);
+  }
+
+  const darkStorage = localStorage.getItem('darkmode');
+  const isBrowserDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+
+  if (!darkStorage && isBrowserDark) {
+    document.documentElement.classList.add('dark');
+  }
+
+  if (darkStorage && darkStorage === 'dark') {
+    toggleDarkMode();
+  }
+</script>
+
+
+<script>
+  const mobileMenuButton = document.querySelector('.mobile-menu-button')
+  const mobileMenu = document.querySelector('.mobile-menu')
+  function toggleMenu() {
+    mobileMenu.classList.toggle('hidden');
+    mobileMenu.classList.toggle('flex');
+  }
+  if(mobileMenu && mobileMenuButton){
+    mobileMenuButton.addEventListener('click', toggleMenu)
+  }
+</script>
+</body>
+</html>

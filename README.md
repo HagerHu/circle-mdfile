@@ -1,6 +1,5 @@
 # 集合，构建你的个人系统
 
-
 ## 湾区周报中文版
 
 [第 1 期](https://usistem.com/zh/the-bay-area/the-bay-area-weekly-01/)
