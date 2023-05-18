@@ -11,8 +11,8 @@ tags:
   - "创业"
   - "独立黑客"
   - "Buffer"
-thumbnail: "https://buffer.com/resources/content/images/size/w2000/format/avif/2020/11/DJI_0014-1.jpg"
-image: "https://buffer.com/resources/content/images/size/w2000/format/avif/2020/11/DJI_0014-1.jpg"
+thumbnail: "https://cdn.nlark.com/yuque/0/2023/png/177619/1684398050032-7e5d641d-3c04-4b52-9b11-d6a40c199c1f.png"
+image: "https://cdn.nlark.com/yuque/0/2023/png/177619/1684398050032-7e5d641d-3c04-4b52-9b11-d6a40c199c1f.png"
 ---
 
 本文使用 Raycast AI beta 翻译而成，英文版请点击[阅读原文](https://cmcn.me/link?target=https://buffer.com/resources/10-years/)。
