@@ -1,6 +1,6 @@
 ---
 title: "湾区周报 第8期"
-date: 2023-05-11T17:16:33+08:00
+date: 2023-05-18T17:16:33+08:00
 draft: false
 rss:  <p><a href="https://cmcn.me/link?target=https://andreyazimov.medium.com/the-crazy-story-of-how-my-first-mac-app-got-acquired-258bd03d8840">[The crazy story of how my first Mac app got acquired]</a></br> 独立黑客 Andrey Azimov 讲述了他做的第一个 Mac 应用 MacBook Alarm 被收购的故事。为了确认要开始做的的产品是否有用户真的需要，像 Dropbox 一样先录了一段视频预购，结果只有 9 个用户预购。谈到了开发过程的艰难，不断尝试，从各种地方寻找方案，不要听信那些说不可能的人。</p>
 description: 独立黑客 Andrey Azimov 讲述了他做的第一个 Mac 应用 MacBook Alarm 被收购的故事。为了确认要开始做的的产品是否有用户真的需要，像 Dropbox 一样先录了一段视频预购，结果只有 9 个用户预购。谈到了开发过程的艰难，不断尝试，从各种地方寻找方案，不要听信那些说不可能的人。
