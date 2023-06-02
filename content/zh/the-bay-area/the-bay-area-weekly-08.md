@@ -35,3 +35,7 @@ Hailley Griffis 是个清单爱好者，平时工作就会列出任务清单和�
 ### [I Regret My $46k Website Redesign](https://cmcn.me/link?target=https://mtlynch.io/tinypilot-redesign/)
 
 TinyPilot 是 [Michael Lynch](https://mtlynch.io/) 两年前开始的一个小项目，一年后这个项目可以每月产生  $45K 的收入，但网站看起来很业余，想到了重新设计。文章讲述了他和外包公司的合作历程，讲述了这个合作从开始只需要 4 个星期 7K 预算就可以完成，然而实际上却花了 47K 8 个月，远远超出预期，总结了其中的不足和的到的教训，幸好设计后达到了预期效果。
+
+---
+
+[点击](https://usistem.com/zh/the-bay-area/) 阅读湾区周报全部内容；也欢迎阅读我的博客 [寒峰路](https://cmcn.me/link?target=https://hagerhu.com)。
