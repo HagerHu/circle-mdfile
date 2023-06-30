@@ -1,6 +1,6 @@
 ---
 title: "湾区周报 第12期"
-date: 2023-06-15T14:29:33+08:00
+date: 2023-06-30T13:23:33+08:00
 draft: false
 rss:  <p><a href="https://cmcn.me/link?target=https://news.tonydinh.com/p/aug-2022-one-year-since-i-quit-my"> A Bootstrapped SaaS  Journey to $10K MRR </a></br> Jon Yongfook 是 BannerBear 的创始人，在文章中分享了 BannerBear 做到月收入 $10K 的旅程。一开始挑战12个月12个创业项目，开始的7个项目没有一个带来收入，然后开始聚焦到一个领域 -- 图像生成。然后有了 BannerBear 产品，找到北极星指标，重新设计，聚焦一个非常小的利基市场。</p>
 description: Jon Yongfook 是 BannerBear 的创始人，在文章中分享了 BannerBear 做到月收入 $10K 的旅程。一开始挑战12个月12个创业项目，开始的7个项目没有一个带来收入，然后开始聚焦到一个领域 -- 图像生成。然后有了 BannerBear 产品，找到北极星指标，重新设计，聚焦一个非常小的利基市场。

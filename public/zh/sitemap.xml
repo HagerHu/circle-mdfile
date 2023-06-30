@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://usistem.com/zh/tags/black-magic/</loc>
-    <lastmod>2023-06-15T14:29:33+08:00</lastmod>
+    <loc>https://usistem.com/zh/tags/bannerbear/</loc>
+    <lastmod>2023-06-30T13:23:33+08:00</lastmod>
   </url><url>
     <loc>https://usistem.com/zh/categories/</loc>
-    <lastmod>2023-06-15T14:29:33+08:00</lastmod>
+    <lastmod>2023-06-30T13:23:33+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -19,10 +19,13 @@
                 />
   </url><url>
     <loc>https://usistem.com/zh/tags/indie-hackers/</loc>
-    <lastmod>2023-06-15T14:29:33+08:00</lastmod>
+    <lastmod>2023-06-30T13:23:33+08:00</lastmod>
+  </url><url>
+    <loc>https://usistem.com/zh/tags/jon-yongfook/</loc>
+    <lastmod>2023-06-30T13:23:33+08:00</lastmod>
   </url><url>
     <loc>https://usistem.com/zh/tags/</loc>
-    <lastmod>2023-06-15T14:29:33+08:00</lastmod>
+    <lastmod>2023-06-30T13:23:33+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -34,14 +37,8 @@
                 href="https://usistem.com/zh/tags/"
                 />
   </url><url>
-    <loc>https://usistem.com/zh/tags/tony-dinh/</loc>
-    <lastmod>2023-06-15T14:29:33+08:00</lastmod>
-  </url><url>
-    <loc>https://usistem.com/zh/tags/xnapper/</loc>
-    <lastmod>2023-06-15T14:29:33+08:00</lastmod>
-  </url><url>
     <loc>https://usistem.com/zh/</loc>
-    <lastmod>2023-06-15T14:29:33+08:00</lastmod>
+    <lastmod>2023-06-30T13:23:33+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -54,6 +51,18 @@
                 />
   </url><url>
     <loc>https://usistem.com/zh/categories/%E6%B9%BE%E5%8C%BA%E5%91%A8%E6%8A%A5/</loc>
+    <lastmod>2023-06-30T13:23:33+08:00</lastmod>
+  </url><url>
+    <loc>https://usistem.com/zh/the-bay-area/the-bay-area-weekly-12/</loc>
+    <lastmod>2023-06-30T13:23:33+08:00</lastmod>
+  </url><url>
+    <loc>https://usistem.com/zh/tags/black-magic/</loc>
+    <lastmod>2023-06-15T14:29:33+08:00</lastmod>
+  </url><url>
+    <loc>https://usistem.com/zh/tags/tony-dinh/</loc>
+    <lastmod>2023-06-15T14:29:33+08:00</lastmod>
+  </url><url>
+    <loc>https://usistem.com/zh/tags/xnapper/</loc>
     <lastmod>2023-06-15T14:29:33+08:00</lastmod>
   </url><url>
     <loc>https://usistem.com/zh/the-bay-area/the-bay-area-weekly-11/</loc>
