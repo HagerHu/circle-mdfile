@@ -2,8 +2,8 @@
 title: "湾区周报 第13期"
 date: 2023-07-05T14:28:33+08:00
 draft: false
-rss:  <p><a href="https://cmcn.me/link?target=https://www.indiehackers.com/post/how-i-built-a-google-sheets-extension-making-1-6k-mrr-b42d845e6a"> How I Built a Google Sheets Extension Making $1.6k+ MRR </a></br> Vance Lucas 针对自己记账的特殊需求，分享了使用 Google Sheet 扩展的功能产品 BudgetSheet。从不同方面分享了 BudgetSheet 的旅程，包括选择正确的问题，探索想法，收费，专注于稳定性和质量等。</p>
-description: Vance Lucas 针对自己记账的特殊需求，分享了使用 Google Sheet 扩展的功能产品 BudgetSheet。从不同方面分享了 BudgetSheet 的旅程，包括选择正确的问题，探索想法，收费，专注于稳定性和质量等。
+rss:  <p><a href="https://cmcn.me/link?target=https://www.indiehackers.com/post/how-i-built-a-google-sheets-extension-making-1-6k-mrr-b42d845e6a"> How I Built a Google Sheets Extension Making $1.6k+ MRR </a></br> Vance Lucas 尝试了很多个人记账和预算类产品，如 Mint、YNAB、EveryDolla，都无法满足自己的需求，于是基于 Google Sheet 开发了自己的产品 BudgetSheet。从不同方面分享了 BudgetSheet 的旅程，包括选择正确的问题，探索想法，收费，专注于稳定性和质量等。</p>
+description: Vance Lucas 尝试了很多个人记账和预算类产品，如 Mint、YNAB、EveryDolla，都无法满足自己的需求，于是基于 Google Sheet 开发了自己的产品 BudgetSheet。从不同方面分享了 BudgetSheet 的旅程，包括选择正确的问题，探索想法，收费，专注于稳定性和质量等。
 keywords: ["湾区","湾区日报","湾区周报","Bhanu Teja P","feather.so","sitegpt.ai","bumpy","hello code","budgetsheet"]
 categories:
   - "湾区周报"
@@ -21,7 +21,7 @@ image: "https://circle-picgo.oss-cn-shanghai.aliyuncs.com/img/budgetsheet.png"
 ---
 ### [How I Built a Google Sheets Extension Making $1.6k+ MRR](https://cmcn.me/link?target=https://www.indiehackers.com/post/how-i-built-a-google-sheets-extension-making-1-6k-mrr-b42d845e6a)
 
-Vance Lucas 针对自己记账的特殊需求，分享了使用 Google Sheet 扩展的功能产品 BudgetSheet。从不同方面分享了 BudgetSheet 的旅程，包括选择正确的问题，探索想法，收费，专注于稳定性和质量等。
+Vance Lucas 尝试了很多个人记账和预算类产品，如 Mint、YNAB、EveryDolla，都无法满足自己的需求，于是基于 Google Sheet 开发了自己的产品 BudgetSheet。从不同方面分享了 BudgetSheet 的旅程，包括选择正确的问题，探索想法，收费，专注于稳定性和质量等。
 
 
 ### [I grew my SaaS to $10k MRR in a month](https://cmcn.me/link?target=https://www.reddit.com/r/SaaS/comments/139eojv/i_grew_my_saas_to_10k_mrr_in_a_month)
